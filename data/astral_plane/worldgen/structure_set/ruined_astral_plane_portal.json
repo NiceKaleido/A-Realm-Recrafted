@@ -1,0 +1,15 @@
+{
+	"structures": [
+		{
+			"structure": "astral_plane:ruined_astral_plane_portal",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 423669208,
+        "frequency": 1,
+		"spacing": 24,
+		"separation": 15
+	}
+}

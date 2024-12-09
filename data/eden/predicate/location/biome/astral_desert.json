@@ -1,0 +1,10 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "location": {
+        "biomes": "astral_plane:astral_desert"
+      }
+    }
+  }
+  

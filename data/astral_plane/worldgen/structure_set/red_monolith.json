@@ -1,0 +1,13 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 17,
+        "separation": 10,
+        "salt": 21000420,
+        "spread_type": "triangular"
+    },
+    "structures": [{
+        "structure": "astral_plane:red_monolith",
+        "weight": 1
+    }]
+}

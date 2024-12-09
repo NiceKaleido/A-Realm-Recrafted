@@ -1,0 +1,1 @@
+execute store result storage blockhead_mobs:nautilus size int 1 run random value 45..99

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "astral_plane:fossils",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1504702554,
+    "spacing": 18,
+    "separation": 8
+  }
+}

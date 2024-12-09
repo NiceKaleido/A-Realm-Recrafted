@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "blockhead_mobs:penguins",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 75,
+      "separation": 40,
+      "spread_type": "triangular",
+      "salt": 6942069
+    }
+  }

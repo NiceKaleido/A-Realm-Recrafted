@@ -1,0 +1,1 @@
+execute at @e[type=marker,tag=wawo.waypoint_hub.marker] run particle minecraft:portal ~ ~1 ~ .4 .4 .4 .1 2

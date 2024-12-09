@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "astral_plane:exit_portals",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 34222645,
+      "spacing": 20,
+      "separation": 5
+    }
+  }

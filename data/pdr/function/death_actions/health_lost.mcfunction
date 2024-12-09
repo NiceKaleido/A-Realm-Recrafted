@@ -1,0 +1,1 @@
+scoreboard players add @s pdr.lost.health.counter 1
