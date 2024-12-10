@@ -5,6 +5,9 @@ scoreboard objectives add eden.technical dummy
 scoreboard objectives add heritages.guardians dummy
 scoreboard objectives add heritages.guardians.level dummy
 scoreboard objectives add heritages.guardians.on_cooldown dummy
+scoreboard objectives add reset_progress trigger {"text": "Reset Progress"}
+scoreboard objectives add heritages.progress.reset dummy
+scoreboard objectives add heritages.progress.reset.confirmed dummy
 
 ##scoreboard entries
 scoreboard players set $3 eden.technical 3
@@ -15,6 +18,8 @@ schedule function heritages:effects_run 2s
 schedule function heritages:guardians/run 5t
 schedule function heritages:guardians/set_anger 5s
 schedule function heritages:particles/run 3t
+schedule function heritages:player_reset/reset_confirm 1s
+schedule function heritages:player_reset/run 3s
 
 ##add teams
 team add eden.frostborne {"bold":false,"color":"aqua","italic":false,"text":"Frostborne"}

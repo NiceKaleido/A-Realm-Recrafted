@@ -1,5 +1,5 @@
-execute in minecraft:overworld run tp @e[type=#nmr:hostile,tag=spawnmob] ~ ~-20 ~
-execute in minecraft:overworld run kill @e[type=#nmr:hostile,tag=spawnmob]
+execute in minecraft:overworld run tp @e[type=#eden:hostile,tag=spawnmob] ~ ~-20 ~
+execute in minecraft:overworld run kill @e[type=#eden:hostile,tag=spawnmob]
 
 execute in minecraft:overworld run summon zombie -193 -57 420 {NoGravity:1b,Silent:1b,Invulnerable:1b,PersistenceRequired:1b,NoAI:1b,Tags:["spawnmob"],Rotation:[-180F,0F]}
 execute in minecraft:overworld run summon skeleton -196 -57 420 {NoGravity:1b,Silent:1b,Invulnerable:1b,PersistenceRequired:1b,NoAI:1b,Tags:["spawnmob"],Rotation:[-180F,0F]}

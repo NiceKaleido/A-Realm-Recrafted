@@ -1,0 +1,1 @@
+schedule function migration:run 3s

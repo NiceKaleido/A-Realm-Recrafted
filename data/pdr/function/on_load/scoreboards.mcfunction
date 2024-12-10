@@ -1,3 +1,4 @@
+##add scorebaords
 scoreboard objectives add pdr.technical dummy
 scoreboard objectives add pdr.respawned deathCount
 scoreboard objectives add pdr.health dummy

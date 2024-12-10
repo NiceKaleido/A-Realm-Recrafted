@@ -1,5 +1,3 @@
-execute as @a[tag=!heritage.old.removed] run function heritages:migration
-
 execute as @a[tag=dunesworn] at @s run effect give @s minecraft:resistance infinite 1 true
 execute as @a[tag=endling] at @s run effect give @s minecraft:trial_omen infinite 0 true
 execute as @a[tag=frostborne] at @s run effect give @s minecraft:slow_falling infinite 0 true

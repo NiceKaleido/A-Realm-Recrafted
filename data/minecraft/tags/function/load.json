@@ -32,6 +32,7 @@
       {"id": "trader_announcements:load","required": false},
       {"id": "trader_trades:load","required": false},
       {"id": "pdr:load","required": false},
-      {"id": "wawo:load","required": false}
+      {"id": "wawo:load","required": false},
+      {"id": "migration:load","required": false}
     ]
   }
