@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:tiltedscale",
+  "height": 1,
+  "width": 1,
+  "author": {
+    "text": "Explorer's Eden",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Tilted Scale",
+    "color": "gold"
+  }
+}

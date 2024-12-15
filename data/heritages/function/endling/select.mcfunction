@@ -18,6 +18,7 @@ execute as @a[team=eden.endling] at @s run playsound minecraft:entity.chicken.eg
 team join eden.endling @s
 tag @s add endling
 tag @s add has_heritage
+tag @s add heritage.old.removed
 
 attribute @s minecraft:gravity base set 0.04
 attribute @s minecraft:safe_fall_distance base set 3.5

@@ -1,0 +1,13 @@
+{
+    "asset_id": "minecraft:obsidican",
+    "height": 3,
+    "width": 2,
+    "author": {
+      "text": "Explorer's Eden",
+      "color": "gray"
+    },
+    "title": {
+      "text": "Obsidican",
+      "color": "gold"
+    }
+}

@@ -10,6 +10,7 @@ function villager_names:database/first_names/savanna
 function villager_names:database/first_names/snow
 function villager_names:database/first_names/swamp
 function villager_names:database/first_names/taiga
+function villager_names:database/first_names/deep_blue
 function villager_names:database/first_names/wandering_trader
 
 #get last names

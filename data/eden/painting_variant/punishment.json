@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:punishment",
+  "height": 1,
+  "width": 3,
+  "author": {
+    "text": "Explorer's Eden",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Punishment",
+    "color": "gold"
+  }
+}

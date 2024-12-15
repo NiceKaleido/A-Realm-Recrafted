@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:lighting",
+  "height": 3,
+  "width": 1,
+  "author": {
+    "text": "Explorer's Eden",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Lighting",
+    "color": "gold"
+  }
+}

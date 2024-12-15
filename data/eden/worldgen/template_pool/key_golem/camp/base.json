@@ -1,0 +1,23 @@
+{
+    "name": "eden:key_golem/camp/base",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 2,
+        "element": {
+            "location": "eden:key_golem/camp/base_1",
+            "processors": "eden:key_golem_camp",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/base_2",
+            "processors": "eden:key_golem_camp",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }
+]
+}

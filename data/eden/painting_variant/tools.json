@@ -1,0 +1,14 @@
+{
+    "asset_id": "minecraft:tools",
+    "width": 2,
+    "height": 2,
+    "author": {
+      "text": "Explorer's Eden",
+      "color": "gray"
+    },
+    "title": {
+      "text": "Tools",
+      "color": "gold"
+    }
+  }
+  

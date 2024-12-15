@@ -18,6 +18,7 @@ execute as @a[team=eden.frostborne] at @s run playsound minecraft:entity.chicken
 team join eden.frostborne @s
 tag @s add frostborne
 tag @s add has_heritage
+tag @s add heritage.old.removed
 
 attribute @s minecraft:movement_efficiency base set 1
 attribute @s minecraft:burning_time base set 2.0

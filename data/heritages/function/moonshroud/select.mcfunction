@@ -18,6 +18,7 @@ execute as @a[team=eden.moonshroud] at @s run playsound minecraft:entity.chicken
 team join eden.moonshroud @s
 tag @s add moonshroud
 tag @s add has_heritage
+tag @s add heritage.old.removed
 
 attribute @s minecraft:attack_speed base set 5.5
 attribute @s minecraft:attack_damage base set 0.7

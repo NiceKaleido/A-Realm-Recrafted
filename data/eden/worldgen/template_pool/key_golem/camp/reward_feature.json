@@ -1,0 +1,95 @@
+{
+    "name": "eden:key_golem/camp/reward_feature",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 15,
+        "element": {
+            "location": "eden:key_golem/camp/reward_1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 15,
+        "element": {
+            "location": "eden:key_golem/camp/reward_2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 15,
+        "element": {
+            "location": "eden:key_golem/camp/reward_3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 5,
+        "element": {
+            "location": "eden:key_golem/camp/reward_4",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 5,
+        "element": {
+            "location": "eden:key_golem/camp/reward_5",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 5,
+        "element": {
+            "location": "eden:key_golem/camp/reward_6",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 15,
+        "element": {
+            "location": "eden:key_golem/camp/reward_7",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 15,
+        "element": {
+            "location": "eden:key_golem/camp/reward_8",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 15,
+        "element": {
+            "location": "eden:key_golem/camp/reward_9",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 3,
+        "element": {
+            "location": "eden:key_golem/camp/reward_10",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }
+]
+}

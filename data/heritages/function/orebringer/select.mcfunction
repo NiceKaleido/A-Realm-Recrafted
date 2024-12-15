@@ -18,6 +18,7 @@ execute as @a[team=eden.orebringer] at @s run playsound minecraft:entity.chicken
 team join eden.orebringer @s
 tag @s add orebringer
 tag @s add has_heritage
+tag @s add heritage.old.removed
 
 attribute @s minecraft:block_break_speed base set 2
 attribute @s minecraft:block_interaction_range base set 3.5

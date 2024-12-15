@@ -1,0 +1,13 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 72,
+        "separation": 36,
+        "salt": 36147893,
+        "spread_type": "triangular"
+    },
+    "structures": [{
+        "structure": "eden:ice",
+        "weight": 1
+    }]
+}

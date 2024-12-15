@@ -1,0 +1,15 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 48,
+      "separation": 24,
+      "salt": 5481214523243,
+      "spread_type": "triangular"
+    },
+    "structures": [
+      {
+        "structure": "eden:key_golem/camp",
+        "weight": 1
+      }
+    ]
+  }

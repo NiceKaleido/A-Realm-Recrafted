@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:cake",
+  "height": 2,
+  "width": 2,
+  "author": {
+    "text": "Explorer's Eden",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Cake",
+    "color": "gold"
+  }
+}

@@ -18,6 +18,7 @@ execute as @a[team=eden.netherian] at @s run playsound minecraft:entity.chicken.
 team join eden.netherian @s
 tag @s add netherian
 tag @s add has_heritage
+tag @s add heritage.old.removed
 
 attribute @s minecraft:burning_time base set 0
 attribute @s minecraft:attack_speed base set 3

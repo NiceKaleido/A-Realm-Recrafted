@@ -4,6 +4,12 @@ execute store result storage eden:temp joined.scale int 1 run random value 0..9
 execute in minecraft:overworld run tp @s -216 -56 407 -90 0
 
 recipe give @s *
+recipe take @s goml:withering_seal
+recipe take @s goml:lake_spirit_grace
+recipe take @s goml:heaven_wings
+recipe take @s goml:chaos_zone
+recipe take @s goml:ender_binding
+recipe take @s goml:angelic_aura
 
 function eden:first_join/display_msg
 tellraw @s {"text":" ","color":"gray","bold":false,"italic":false}

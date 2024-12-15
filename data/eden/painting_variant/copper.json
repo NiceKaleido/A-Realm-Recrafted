@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:copper",
+  "height": 1,
+  "width": 1,
+  "author": {
+    "text": "Explorer's Eden",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Copper",
+    "color": "gold"
+  }
+}

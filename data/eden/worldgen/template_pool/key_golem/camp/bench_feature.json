@@ -1,0 +1,131 @@
+{
+    "name": "eden:key_golem/camp/bench_feature",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 2,
+        "element": {
+            "location": "eden:key_golem/camp/bench_1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_4",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_5",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_6",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_7",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_8",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_9",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_10",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_11",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_12",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_13",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "eden:key_golem/camp/bench_14",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }
+]
+}

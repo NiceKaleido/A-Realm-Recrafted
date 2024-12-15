@@ -4,7 +4,6 @@ execute as @s at @s if predicate eden:percentages/25 unless score @s eden.joined
 
 scoreboard players set @s eden.joined.key 1
 
-
 execute store result score $join_msg eden.technical run random value 1..33
 
 execute if score $join_msg eden.technical matches 1 run tellraw @a [{"text":"▊ ","color":"aqua"},{"text":"Welcome ","color":"gray"},{"selector":"@s","color":"green"},{"text":". to the realm of Explorers Eden!","color":"gray"}]
@@ -52,3 +51,11 @@ execute as @s[tag=netherian] run team join eden.netherian @s
 execute as @s[tag=oakhearted] run team join eden.oakhearted @s
 execute as @s[tag=orebringer] run team join eden.orebringer @s
 execute as @s[tag=turtlekin] run team join eden.turtlekin @s
+
+recipe give @s *
+recipe take @s goml:withering_seal
+recipe take @s goml:lake_spirit_grace
+recipe take @s goml:heaven_wings
+recipe take @s goml:chaos_zone
+recipe take @s goml:ender_binding
+recipe take @s goml:angelic_aura

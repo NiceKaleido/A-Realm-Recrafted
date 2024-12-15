@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#minecraft:air",
+    "minecraft:water",
+    "minecraft:snow",
+    "minecraft:lava",
+    "minecraft:barrel",
+    "minecraft:chest",
+    "minecraft:trapped_chest",
+    "minecraft:ender_chest",
+    "#minecraft:wool_carpets"
+  ]
+}

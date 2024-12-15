@@ -18,6 +18,7 @@ execute as @a[team=eden.dunesworn] at @s run playsound minecraft:entity.chicken.
 team join eden.dunesworn @s
 tag @s add dunesworn
 tag @s add has_heritage
+tag @s add heritage.old.removed
 
 attribute @s minecraft:attack_knockback base set 1.5
 attribute @s minecraft:armor_toughness base set -4

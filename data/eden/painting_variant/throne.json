@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:throne",
+  "height": 3,
+  "width": 3,
+  "author": {
+    "text": "Explorer's Eden",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Throne",
+    "color": "gold"
+  }
+}

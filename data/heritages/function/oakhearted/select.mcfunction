@@ -18,6 +18,7 @@ execute as @a[team=eden.oakhearted] at @s run playsound minecraft:entity.chicken
 team join eden.oakhearted @s
 tag @s add oakhearted
 tag @s add has_heritage
+tag @s add heritage.old.removed
 
 attribute @s minecraft:jump_strength base set 0.6
 attribute @s minecraft:safe_fall_distance base set 3.5

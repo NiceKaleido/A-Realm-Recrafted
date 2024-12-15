@@ -1,3 +1,7 @@
+##del scoreboards as garbage collection
+scoreboard objectives remove eden.digsite.placed
+scoreboard objectives remove eden.digsite.attempts
+
 ##default technical scoreboard
 scoreboard objectives add eden.technical dummy
 
@@ -8,6 +12,10 @@ scoreboard objectives add eden.rtp.counter dummy
 scoreboard objectives add eden.joined.game minecraft.custom:minecraft.leave_game
 scoreboard objectives add eden.joined.key dummy
 scoreboard objectives add tp_heritage_harbor trigger {"text": "Heritage Harbor"}
+scoreboard objectives add eden.digsite.placed dummy
+scoreboard objectives add eden.digsite.attempts dummy
+scoreboard objectives add eden.digsite.age dummy
+scoreboard objectives add eden.digsite.type dummy
 
 ##init schedules
 schedule function eden:rtp/run 2s
@@ -15,6 +23,10 @@ schedule function eden:player_joined/run 3s
 schedule function eden:spawn/run 2s
 schedule function eden:misc/dirt_path_speed 3t
 schedule function eden:heritage_harbor/run 2s
+schedule function eden:digsites/run_clear 60s
+schedule function eden:digsites/run 4t
+schedule function eden:key_golem/run 3s
+schedule function eden:key_golem/vault/run 9t
 
 ##gamerules
 difficulty hard
@@ -27,7 +39,6 @@ gamerule snowAccumulationHeight 4
 gamerule lavaSourceConversion true
 gamerule playersNetherPortalDefaultDelay 1
 gamerule commandBlockOutput false
-gamerule minecartMaxSpeed 48
 gamerule playersSleepingPercentage 75
 gamerule announceAdvancements false
 gamerule enderPearlsVanishOnDeath true

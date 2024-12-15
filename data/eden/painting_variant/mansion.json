@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:mansion",
+  "height": 2,
+  "width": 3,
+  "author": {
+    "text": "Explorer's Eden",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Mansion",
+    "color": "gold"
+  }
+}

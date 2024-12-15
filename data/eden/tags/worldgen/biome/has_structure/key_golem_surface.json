@@ -1,0 +1,54 @@
+{
+    "values": [
+      "minecraft:meadow",
+      "minecraft:plains",
+      "minecraft:sunflower_plains",
+      "minecraft:savanna",
+      "minecraft:birch_forest",
+      "minecraft:old_growth_birch_forest",
+      {
+        "id": "biomesoplenty:grassland",
+        "required": false
+      },
+      {
+        "id": "biomesoplenty:clover_patch",
+        "required": false
+      },
+      {
+        "id": "biomesoplenty:field",
+        "required": false
+      },
+      {
+        "id": "biomesoplenty:lush_savanna",
+        "required": false
+      },
+      {
+        "id": "terralith:brushland",
+        "required": false
+      },
+      {
+        "id": "terralith:steppe",
+        "required": false
+      },
+      {
+        "id": "terralith:blooming_valley",
+        "required": false
+      },
+      {
+        "id": "terralith:lavender_valley",
+        "required": false
+      },
+      {
+        "id": "terralith:lush_valley",
+        "required": false
+      },
+      {
+        "id": "terralith:moonlight_valley",
+        "required": false
+      },
+      {
+        "id": "terralith:sakura_valley",
+        "required": false
+      }
+    ]
+  }

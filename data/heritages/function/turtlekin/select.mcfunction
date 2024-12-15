@@ -18,6 +18,7 @@ execute as @a[team=eden.turtlekin] at @s run playsound minecraft:entity.chicken.
 team join eden.turtlekin @s
 tag @s add turtlekin
 tag @s add has_heritage
+tag @s add heritage.old.removed
 
 attribute @s minecraft:oxygen_bonus base set 15
 attribute @s minecraft:movement_speed base set 0.075
