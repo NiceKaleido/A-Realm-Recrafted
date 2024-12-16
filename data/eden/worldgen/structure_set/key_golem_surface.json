@@ -1,7 +1,7 @@
 {
     "placement": {
       "type": "minecraft:random_spread",
-      "spacing": 48,
+      "spacing": 28,
       "separation": 24,
       "salt": 5481214523243,
       "spread_type": "triangular"
@@ -9,6 +9,14 @@
     "structures": [
       {
         "structure": "eden:key_golem/camp",
+        "weight": 1
+      },
+      {
+        "structure": "eden:key_golem/desert",
+        "weight": 1
+      },
+      {
+        "structure": "eden:key_golem/pale_garden",
         "weight": 1
       }
     ]

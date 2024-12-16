@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:command",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/key_golem/diamond"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/key_golem/gold"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/key_golem/redstone"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/key_golem/resin"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/key_golem/emerald"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/key_golem/lapis"
+          }
+        ]
+      }
+    ]
+  }

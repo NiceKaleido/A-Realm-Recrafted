@@ -29,7 +29,7 @@
         }
     },
     {
-        "weight": 5,
+        "weight": 10,
         "element": {
             "location": "eden:key_golem/camp/reward_4",
             "processors": "minecraft:empty",
@@ -38,7 +38,7 @@
         }
     },
     {
-        "weight": 5,
+        "weight": 10,
         "element": {
             "location": "eden:key_golem/camp/reward_5",
             "processors": "minecraft:empty",
@@ -47,7 +47,7 @@
         }
     },
     {
-        "weight": 5,
+        "weight": 10,
         "element": {
             "location": "eden:key_golem/camp/reward_6",
             "processors": "minecraft:empty",
@@ -83,7 +83,7 @@
         }
     },
     {
-        "weight": 3,
+        "weight": 5,
         "element": {
             "location": "eden:key_golem/camp/reward_10",
             "processors": "minecraft:empty",

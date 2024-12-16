@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "shovel_upgrade",
+    "input": "minecraft:diamond_shovel",
+    "material": "minecraft:netherite_shovel",
+    "result": "minecraft:netherite_shovel"
+  }

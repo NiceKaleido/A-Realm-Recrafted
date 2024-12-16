@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "axe_upgrade",
+    "input": "minecraft:golden_axe",
+    "material": "minecraft:diamond_axe",
+    "result": "minecraft:diamond_axe"
+  }

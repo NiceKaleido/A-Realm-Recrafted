@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Cherry Hoe\",\"translate\":\"tools.eden.hoe.cherry\"}",
                   "minecraft:custom_data": "{tools:cherry_hoe}",
                   "minecraft:item_model": "eden:tools/cherry_hoe",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 1500,
                   "minecraft:rarity": "rare"
                 }
               }

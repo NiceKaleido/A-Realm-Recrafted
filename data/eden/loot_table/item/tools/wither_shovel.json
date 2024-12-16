@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Wither Shovel\",\"translate\":\"tools.eden.shovel.wither\"}",
                   "minecraft:custom_data": "{tools:wither_shovel}",
                   "minecraft:item_model": "eden:tools/wither_shovel",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 2500,
                   "minecraft:rarity": "rare"
                 }
               }

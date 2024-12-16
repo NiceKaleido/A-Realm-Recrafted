@@ -13,9 +13,6 @@
                 "minecraft:item_name": "{\"fallback\":\"Creeper Sword\",\"translate\":\"tools.eden.sword.creeper\"}",
                 "minecraft:custom_data": "{tools:creeper_sword}",
                 "minecraft:item_model": "eden:tools/creeper_sword",
-                "minecraft:max_stack_size": 1,
-                "minecraft:damage": 0,
-                "minecraft:max_damage": 1500,
                 "minecraft:rarity": "uncommon"
               }
             }

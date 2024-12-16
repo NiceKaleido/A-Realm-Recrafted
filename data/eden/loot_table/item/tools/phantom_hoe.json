@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Phantom Hoe\",\"translate\":\"tools.eden.hoe.phantom\"}",
                   "minecraft:custom_data": "{tools:phantom_hoe}",
                   "minecraft:item_model": "eden:tools/phantom_hoe",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 1750,
                   "minecraft:rarity": "rare"
                 }
               }

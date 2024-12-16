@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Serpents Tongue\",\"translate\":\"tools.eden.serpents_tongue\"}",
                   "minecraft:custom_data": "{tools:serpents_tongue}",
                   "minecraft:item_model": "eden:tools/serpents_tongue",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 3500,
                   "minecraft:rarity": "epic"
                 }
               }

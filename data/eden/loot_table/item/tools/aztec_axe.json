@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Aztec Axe\",\"translate\":\"tools.eden.axe.aztec\"}",
                   "minecraft:custom_data": "{tools:aztec_axe}",
                   "minecraft:item_model": "eden:tools/aztex_axe",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 2500,
                   "minecraft:rarity": "rare"
                 }
               }

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": [
+      "minecraft:gold_nugget"
+    ],
+    "X": [
+      "minecraft:sweet_berries"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_carrot",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "{\"fallback\":\"Golden Sweet Berries\",\"translate\":\"food.eden.golden_sweet_berries\"}",
+      "minecraft:item_model": "eden:food/golden_sweet_berries"
+    }
+  }
+}

@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Vampire Axe\",\"translate\":\"tools.eden.axe.vampire\"}",
                   "minecraft:custom_data": "{tools:vampire_axe}",
                   "minecraft:item_model": "eden:tools/vampire_axe",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 750,
                   "minecraft:rarity": "rare"
                 }
               }

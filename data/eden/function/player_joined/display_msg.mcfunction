@@ -1,6 +1,6 @@
 team leave @s
 
-execute as @s at @s if predicate eden:percentages/25 unless score @s eden.joined.key matches 1 run function eden:player_joined/golden_key
+execute as @s at @s if predicate eden:percentages/35 unless score @s eden.joined.key matches 1 run function eden:player_joined/daily_key
 
 scoreboard players set @s eden.joined.key 1
 

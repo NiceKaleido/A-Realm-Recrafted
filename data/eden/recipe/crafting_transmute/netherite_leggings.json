@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "leggings_upgrade",
+    "input": "minecraft:diamond_leggings",
+    "material": "minecraft:netherite_leggings",
+    "result": "minecraft:netherite_leggings"
+  }

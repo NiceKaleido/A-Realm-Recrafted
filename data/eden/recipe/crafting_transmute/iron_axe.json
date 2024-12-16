@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "axe_upgrade",
+    "input": "minecraft:stone_axe",
+    "material": "minecraft:iron_axe",
+    "result": "minecraft:iron_axe"
+  }

@@ -5,5 +5,5 @@ data modify storage eden:name_db color.savanna set value E08C6E
 data modify storage eden:name_db color.snow set value 82C7E0
 data modify storage eden:name_db color.swamp set value AB7D5E
 data modify storage eden:name_db color.taiga set value E0FEFF
-data modify storage eden:name_db color.deep_blue set value 00178C
+data modify storage eden:name_db color.deep_blue set value 148E96
 data modify storage eden:name_db color.wandering_trader set value 75A7FF

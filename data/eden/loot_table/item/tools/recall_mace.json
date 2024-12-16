@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Recall Mace\",\"translate\":\"tools.eden.recall_mace\"}",
                   "minecraft:custom_data": "{tools:recall_mace}",
                   "minecraft:item_model": "eden:tools/recall_mace",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 3500,
                   "minecraft:rarity": "epic"
                 }
               }

@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "shovel_upgrade",
+    "input": "minecraft:wooden_shovel",
+    "material": "minecraft:stone_shovel",
+    "result": "minecraft:stone_shovel"
+  }

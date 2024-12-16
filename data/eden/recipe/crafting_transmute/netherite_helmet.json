@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "helmet_upgrade",
+    "input": "minecraft:diamond_helmet",
+    "material": "minecraft:netherite_helmet",
+    "result": "minecraft:netherite_helmet"
+  }

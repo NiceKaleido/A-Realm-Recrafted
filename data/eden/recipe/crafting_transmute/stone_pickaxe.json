@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "pickaxe_upgrade",
+    "input": "minecraft:wooden_pickaxe",
+    "material": "minecraft:stone_pickaxe",
+    "result": "minecraft:stone_pickaxe"
+  }

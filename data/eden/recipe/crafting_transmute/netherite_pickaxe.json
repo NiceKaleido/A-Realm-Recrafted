@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "pickaxe_upgrade",
+    "input": "minecraft:diamond_pickaxe",
+    "material": "minecraft:netherite_pickaxe",
+    "result": "minecraft:netherite_pickaxe"
+  }

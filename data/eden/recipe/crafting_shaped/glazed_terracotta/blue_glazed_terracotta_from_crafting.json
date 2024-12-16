@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "stained_terracotta",
+    "key": {
+        "#": "#eden:glazed_terracotta",
+        "X": "minecraft:blue_dye"
+    },
+    "pattern": [
+        "###",
+        "#X#",
+        "###"
+    ],
+    "result": {
+        "count": 8,
+        "id": "minecraft:blue_glazed_terracotta"
+    },
+    "show_notification": true
+}

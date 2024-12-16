@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "sword_upgrade",
+    "input": "minecraft:stone_sword",
+    "material": "minecraft:iron_sword",
+    "result": "minecraft:iron_sword"
+  }

@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Mushroom Hoe\",\"translate\":\"tools.eden.hoe.mushroom\"}",
                   "minecraft:custom_data": "{tools:mushroom_hoe}",
                   "minecraft:item_model": "eden:tools/mushroom_hoe",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 1000,
                   "minecraft:rarity": "rare"
                 }
               }

@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "boots_upgrade",
+    "input": "minecraft:leather_boots",
+    "material": "minecraft:iron_boots",
+    "result": "minecraft:iron_boots"
+  }

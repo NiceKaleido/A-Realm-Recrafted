@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Copper Shovel\",\"translate\":\"tools.eden.shovel.copper\"}",
                   "minecraft:custom_data": "{tools:copper_shovel}",
                   "minecraft:item_model": "eden:tools/copper_shovel",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 175,
                   "minecraft:rarity": "common"
                 }
               }

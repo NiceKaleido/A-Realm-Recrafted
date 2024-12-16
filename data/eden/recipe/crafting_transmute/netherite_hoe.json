@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "hoe_upgrade",
+    "input": "minecraft:diamond_hoe",
+    "material": "minecraft:netherite_hoe",
+    "result": "minecraft:netherite_hoe"
+  }

@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Honey Hoe\",\"translate\":\"tools.eden.hoe.honey\"}",
                   "minecraft:custom_data": "{tools:honey_hoe}",
                   "minecraft:item_model": "eden:tools/honey_hoe",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 1500,
                   "minecraft:rarity": "rare"
                 }
               }

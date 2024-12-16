@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Scarlet\",\"translate\":\"tools.eden.scarlet\"}",
                   "minecraft:custom_data": "{tools:scarlet}",
                   "minecraft:item_model": "eden:tools/scarlet",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 3500,
                   "minecraft:rarity": "epic"
                 }
               }

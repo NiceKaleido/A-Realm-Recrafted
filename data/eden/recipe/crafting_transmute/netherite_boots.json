@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "boots_upgrade",
+    "input": "minecraft:diamond_boots",
+    "material": "minecraft:netherite_boots",
+    "result": "minecraft:netherite_boots"
+  }

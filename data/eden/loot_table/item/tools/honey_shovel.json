@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Honey Shovel\",\"translate\":\"tools.eden.shovel.honey\"}",
                   "minecraft:custom_data": "{tools:honey_shovel}",
                   "minecraft:item_model": "eden:tools/honey_shovel",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 1500,
                   "minecraft:rarity": "rare"
                 }
               }

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "concrete",
+    "key": {
+        "#": "#eden:dyeable_concrete_blocks",
+        "X": "minecraft:light_blue_dye"
+    },
+    "pattern": [
+        "###",
+        "#X#",
+        "###"
+    ],
+    "result": {
+        "count": 8,
+        "id": "minecraft:light_blue_concrete"
+    },
+    "show_notification": true
+}

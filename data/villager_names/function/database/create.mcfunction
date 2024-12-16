@@ -21,6 +21,7 @@ function villager_names:database/last_names/savanna
 function villager_names:database/last_names/snow
 function villager_names:database/last_names/swamp
 function villager_names:database/last_names/taiga
+function villager_names:database/last_names/deep_blue
 function villager_names:database/last_names/wandering_trader
 
 #get colors

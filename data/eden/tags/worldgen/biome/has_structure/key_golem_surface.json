@@ -6,6 +6,9 @@
       "minecraft:savanna",
       "minecraft:birch_forest",
       "minecraft:old_growth_birch_forest",
+      "minecraft:forest",
+      "minecraft:flower_forest",
+      "minecraft:cherry_grove",
       {
         "id": "biomesoplenty:grassland",
         "required": false

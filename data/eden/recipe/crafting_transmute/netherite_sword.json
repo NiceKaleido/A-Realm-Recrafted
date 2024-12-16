@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "sword_upgrade",
+    "input": "minecraft:diamond_sword",
+    "material": "minecraft:netherite_sword",
+    "result": "minecraft:netherite_sword"
+  }

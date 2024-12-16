@@ -5,14 +5,18 @@
         "entries": [
           {
             "type": "minecraft:item",
-            "name": "minecraft:nautilus_shell",
+            "name": "minecraft:leather_helmet",
             "functions": [
               {
                 "function": "minecraft:set_components",
                 "components": {
                   "minecraft:item_name": "{\"bold\":false,\"italic\":false,\"text\":\"Cluckshroom Hat\"}",
                   "minecraft:custom_data": "{hats:cluckshroom_hat}",
-                  "minecraft:custom_model_data": 100017,
+                  "minecraft:item_model": "eden:hats/cluckshroom_hat",
+                "minecraft:equippable": {
+                  "slot": "head",
+                  "equip_sound": "minecraft:item.armor.equip_leather"
+                },
                   "minecraft:max_stack_size": 1,
                   "minecraft:rarity": "uncommon"
                 }

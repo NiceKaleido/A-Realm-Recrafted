@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "chestplate_upgrade",
+    "input": "minecraft:diamond_chestplate",
+    "material": "minecraft:netherite_chestplate",
+    "result": "minecraft:netherite_chestplate"
+  }

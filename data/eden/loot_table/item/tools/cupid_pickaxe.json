@@ -13,9 +13,6 @@
                   "minecraft:item_name": "{\"fallback\":\"Cupid Pickaxe\",\"translate\":\"tools.eden.pickaxe.cupid\"}",
                   "minecraft:custom_data": "{tools:cupid_pickaxe}",
                   "minecraft:item_model": "eden:tools/cupid_pickaxe",
-                  "minecraft:max_stack_size": 1,
-                  "minecraft:damage": 0,
-                  "minecraft:max_damage": 2000,
                   "minecraft:rarity": "rare"
                 }
               }
