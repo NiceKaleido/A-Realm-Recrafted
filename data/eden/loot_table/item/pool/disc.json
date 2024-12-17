@@ -1,0 +1,106 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/balduran"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/chemical_plant"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/dearly_beloved"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/down_by_the_river"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/final_fantasy_7"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/mirrors_edge"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/re4_save_room"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/song_of_the_ancients"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/stardew_valley_overture"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/tomb_raider"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/windwaker"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/above"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/click"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/copper"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/elder_guardian"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/evoker"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/final_stage"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/first_night"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/forest"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/iron_oath"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/renren"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/the_end"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/tiny_paws"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/zen_garden"
+          }
+        ]
+      }
+    ]
+  }
+  

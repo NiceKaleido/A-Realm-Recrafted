@@ -178,5 +178,155 @@
             "function": "minecraft:set_item",
             "item": "minecraft:mud"
         }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_tube_coral"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:tube_coral"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_brain_coral"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:brain_coral"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_bubble_coral"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:bubble_coral"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_fire_coral"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:fire_coral"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_horn_coral"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:horn_coral"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_tube_coral_fan"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:tube_coral_fan"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_brain_coral_fan"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:brain_coral_fan"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_bubble_coral_fan"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:bubble_coral_fan"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_fire_coral_fan"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:fire_coral_fan"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_horn_coral_fan"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:horn_coral_fan"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_tube_coral_block"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:tube_coral_block"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_brain_coral_block"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:brain_coral_block"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_bubble_coral_block"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:bubble_coral_block"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_fire_coral_block"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:fire_coral_block"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:dead_horn_coral_block"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:horn_coral_block"
+        }
     }
 ]

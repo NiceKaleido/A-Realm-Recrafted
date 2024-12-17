@@ -1,0 +1,34 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/crossbow/butterfly"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/crossbow/firebolt_thrower"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/crossbow/flower"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/crossbow/harp"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/crossbow/rapid"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/crossbow/the_slicer"
+          }
+        ]
+      }
+    ]
+  }
+  

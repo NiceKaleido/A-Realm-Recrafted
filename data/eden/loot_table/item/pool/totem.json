@@ -1,0 +1,78 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/bat_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/blaze_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/creeper_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/dark_totem_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/enderman_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/ghast_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/golem_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/guardian_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/illager_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/shulker_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/slime_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/spider_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/squid_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/steve_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/witch_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/wither_of_undying"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/totem/copper_golem_of_undying"
+          }
+        ]
+      }
+    ]
+  }
+  

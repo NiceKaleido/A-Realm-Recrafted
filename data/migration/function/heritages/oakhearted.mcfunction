@@ -17,3 +17,4 @@ effect clear @s
 
 loot spawn ~ ~ ~ loot universal_shops:blocks/trade_block
 loot spawn ~ ~ ~ loot goml:blocks/crystal_claim_anchor
+loot spawn ~ ~ ~ loot eden:item/waypoint_hub
