@@ -1,0 +1,39 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/axe",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/hoe",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/pickaxe",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/shovel",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/sword",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/mace",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

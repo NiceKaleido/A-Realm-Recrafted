@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_transmute",
     "group": "chestplate_upgrade",
-    "input": "minecraft:iron_chestplate",
+    "input": "minecraft:leather_chestplate",
     "material": "minecraft:golden_chestplate",
     "result": "minecraft:golden_chestplate"
   }

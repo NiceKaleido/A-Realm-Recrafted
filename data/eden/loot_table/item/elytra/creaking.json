@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:elytra",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "{\"fallback\":\"Creaking Elytra\",\"translate\":\"equipment.eden.creaking_elytra\"}",
+                "minecraft:custom_data": "{equipment:creaking_elytra}",
+                "minecraft:item_model": "eden:equipment/creaking_elytra",
+                "minecraft:rarity": "epic",
+                "minecraft:equippable": {
+                  "slot": "chest",
+                  "asset_id": "eden:creaking"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

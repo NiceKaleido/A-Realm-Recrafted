@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "chestplate_upgrade",
+    "input": [
+      "minecraft:diamond_chestplate",
+      "minecraft:golden_chestplate",
+      "minecraft:iron_chestplate",
+      "minecraft:leather_chestplate",
+      "minecraft:netherite_chestplate"
+    ],
+    "material": "minecraft:chainmail_chestplate",
+    "result": "minecraft:chainmail_chestplate"
+  }

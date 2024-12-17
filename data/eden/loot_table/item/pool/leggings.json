@@ -1,0 +1,86 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/aetherian_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/angels_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/armadillo_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/centurion_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/copper_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/cottage_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/crystal_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/devils_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/fox_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/legionnaries_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/legionnaries_chainmail_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/melon_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/optios_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/pillager_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/sakura_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/skater_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/techno_tribute_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/turtle_leggings"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/warden_leggings"
+          }
+        ]
+      }
+    ]
+  }
+  

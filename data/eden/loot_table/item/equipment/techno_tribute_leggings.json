@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_leggings",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Techno Tribute Leggings\",\"translate\":\"equipment.eden.techno_tribute_leggings\"}",
+                  "minecraft:custom_data": "{equipment:techno_tribute_leggings}",
+                  "minecraft:item_model": "eden:equipment/techno_tribute_leggings",
+                  "minecraft:rarity": "epic",
+                  "minecraft:equippable": {
+                    "slot": "legs",
+                    "asset_id": "eden:techno_tribute"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

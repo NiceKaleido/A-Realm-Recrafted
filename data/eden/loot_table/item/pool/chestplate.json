@@ -1,0 +1,86 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/aetherian_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/angels_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/armadillo_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/centurion_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/copper_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/cottage_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/crystal_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/devils_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/fox_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/legionnaries_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/legionnaries_chainmail_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/melon_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/optios_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/pillager_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/sakura_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/skater_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/techno_tribute_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/turtle_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/warden_chestplate"
+          }
+        ]
+      }
+    ]
+  }
+  

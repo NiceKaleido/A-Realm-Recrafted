@@ -1,0 +1,154 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/amethyst_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/aztec_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/blaze_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/breeze_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/celestial_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cherry_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/copper_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cottage_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/creeper_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cupid_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/festive_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/frost_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/gilded_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/glow_berry_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/guardian_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/halloween_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/honey_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/ice_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/infernal_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/jade_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/mangrove_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/maya_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/minty_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/mushroom_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/overgrown_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/phantom_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/rascal_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/royal_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/ruby_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sculk_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/skull_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sniffer_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/totem_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/vampire_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/wither_hoe"
+          }
+        ]
+      }
+    ]
+  }
+  

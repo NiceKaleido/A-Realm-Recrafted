@@ -1,0 +1,34 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/pool/boots",
+            "weight": 20
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/pool/leggings",
+            "weight": 20
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/pool/chestplate",
+            "weight": 20
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/pool/helmet",
+            "weight": 20
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/pool/elytra",
+            "weight": 5
+          }
+        ]
+      }
+    ]
+  }

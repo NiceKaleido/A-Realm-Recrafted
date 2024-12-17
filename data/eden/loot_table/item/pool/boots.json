@@ -1,0 +1,86 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/aetherian_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/angels_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/armadillo_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/centurion_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/copper_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/cottage_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/crystal_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/devils_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/fox_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/legionnaries_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/legionnaries_chainmail_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/melon_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/optios_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/pillager_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/sakura_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/skater_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/techno_tribute_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/turtle_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/warden_boots"
+          }
+        ]
+      }
+    ]
+  }
+  

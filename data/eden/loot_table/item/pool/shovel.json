@@ -1,0 +1,154 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/amethyst_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/aztec_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/blaze_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/breeze_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/celestial_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cherry_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/copper_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cottage_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/creeper_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cupid_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/festive_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/frost_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/gilded_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/glow_berry_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/guardian_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/halloween_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/honey_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/ice_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/infernal_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/jade_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/mangrove_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/maya_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/minty_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/mushroom_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/overgrown_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/phantom_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/rascal_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/royal_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/ruby_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sculk_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/skull_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sniffer_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/totem_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/vampire_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/wither_shovel"
+          }
+        ]
+      }
+    ]
+  }
+  

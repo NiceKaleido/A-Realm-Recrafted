@@ -1,0 +1,158 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/amethyst_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/aztec_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/blaze_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/breeze_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/celestial_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cherry_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/copper_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cottage_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/creeper_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cupid_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/festive_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/frost_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/gilded_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/glow_berry_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/guardian_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/halloween_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/honey_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/ice_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/infernal_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/jade_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/mangrove_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/maya_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/minty_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/mushroom_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/overgrown_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/phantom_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/rascal_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/royal_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/ruby_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sculk_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/skull_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sniffer_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/totem_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/vampire_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/wither_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/blazing"
+          }
+        ]
+      }
+    ]
+  }
+  

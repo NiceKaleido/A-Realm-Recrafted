@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_chestplate",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Techno Tribute Chestplate\",\"translate\":\"equipment.eden.techno_tribute_chestplate\"}",
+                  "minecraft:custom_data": "{equipment:techno_tribute_chestplate}",
+                  "minecraft:item_model": "eden:equipment/techno_tribute_chestplate",
+                  "minecraft:rarity": "epic",
+                  "minecraft:equippable": {
+                    "slot": "chest",
+                    "asset_id": "eden:techno_tribute"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

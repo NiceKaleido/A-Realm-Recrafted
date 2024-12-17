@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:elytra",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Wings of a Bat\",\"translate\":\"equipment.eden.bat_elytra\"}",
+                  "minecraft:custom_data": "{equipment:bat_elytra}",
+                  "minecraft:item_model": "eden:equipment/bat_elytra",
+                  "minecraft:rarity": "epic",
+                  "minecraft:equippable": {
+                    "slot": "chest",
+                    "asset_id": "eden:bat"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

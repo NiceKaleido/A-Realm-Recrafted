@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_helmet",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Fox Helmet\",\"translate\":\"equipment.eden.fox_helmet\"}",
+                  "minecraft:custom_data": "{equipment:fox_helmet}",
+                  "minecraft:item_model": "eden:equipment/fox_helmet",
+                  "minecraft:rarity": "rare",
+                  "minecraft:equippable": {
+                    "slot": "head",
+                    "asset_id": "eden:fox"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

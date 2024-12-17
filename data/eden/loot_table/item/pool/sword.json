@@ -1,0 +1,182 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/amethyst_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/aztec_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/blaze_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/breeze_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/celestial_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cherry_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/copper_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cottage_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/creeper_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cupid_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/festive_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/frost_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/gilded_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/glow_berry_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/guardian_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/halloween_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/honey_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/ice_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/infernal_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/jade_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/mangrove_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/maya_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/minty_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/mushroom_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/overgrown_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/phantom_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/rascal_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/royal_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/ruby_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sculk_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/skull_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sniffer_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/totem_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/vampire_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/wither_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/chilling"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/life_ender"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/piglin_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sacrifice"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/scarlet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/serpents_tongue"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/withersbane"
+          }
+        ]
+      }
+    ]
+  }
+  

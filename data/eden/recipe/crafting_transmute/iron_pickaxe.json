@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_transmute",
     "group": "pickaxe_upgrade",
-    "input": "minecraft:stone_pickaxe",
+    "input": "minecraft:golden_pickaxe",
     "material": "minecraft:iron_pickaxe",
     "result": "minecraft:iron_pickaxe"
   }

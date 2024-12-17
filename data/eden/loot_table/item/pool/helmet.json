@@ -1,0 +1,82 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/aetherian_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/angels_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/armadillo_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/centurion_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/copper_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/cottage_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/crystal_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/devils_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/fox_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/legionnaries_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/legionnaries_chainmail_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/melon_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/optios_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/pillager_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/sakura_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/skater_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/techno_tribute_helmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/warden_helmet"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_leggings",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Warden Leggings\",\"translate\":\"equipment.eden.warden_leggings\"}",
+                  "minecraft:custom_data": "{equipment:warden_leggings}",
+                  "minecraft:item_model": "eden:equipment/warden_leggings",
+                  "minecraft:rarity": "epic",
+                  "minecraft:equippable": {
+                    "slot": "legs",
+                    "asset_id": "eden:warden"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

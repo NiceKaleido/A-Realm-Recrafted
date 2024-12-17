@@ -1,0 +1,158 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/amethyst_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/aztec_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/blaze_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/breeze_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/celestial_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cherry_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/copper_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cottage_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/creeper_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/cupid_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/festive_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/frost_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/gilded_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/glow_berry_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/guardian_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/halloween_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/honey_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/ice_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/infernal_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/jade_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/mangrove_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/maya_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/minty_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/mushroom_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/overgrown_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/phantom_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/rascal_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/royal_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/ruby_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sculk_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/skull_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sniffer_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/totem_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/vampire_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/wither_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/hefty"
+          }
+        ]
+      }
+    ]
+  }
+  

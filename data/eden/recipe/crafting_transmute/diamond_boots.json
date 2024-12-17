@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_transmute",
     "group": "boots_upgrade",
-    "input": "minecraft:golden_boots",
+    "input": "minecraft:iron_boots",
     "material": "minecraft:diamond_boots",
     "result": "minecraft:diamond_boots"
   }

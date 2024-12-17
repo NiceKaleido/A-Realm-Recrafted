@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_transmute",
     "group": "hoe_upgrade",
-    "input": "minecraft:iron_hoe",
+    "input": "minecraft:stone_hoe",
     "material": "minecraft:golden_hoe",
     "result": "minecraft:golden_hoe"
   }

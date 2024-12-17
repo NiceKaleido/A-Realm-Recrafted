@@ -1,0 +1,27 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_helmet",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Copper Helmet\",\"translate\":\"equipment.eden.copper_helmet\"}",
+                  "minecraft:custom_data": "{equipment:copper_helmet}",
+                  "minecraft:item_model": "eden:equipment/copper_helmet",
+                  "minecraft:equippable": {
+                    "slot": "head",
+                    "asset_id": "eden:copper"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

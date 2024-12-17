@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_transmute",
     "group": "helmet_upgrade",
-    "input": "minecraft:leather_helmet",
+    "input": "minecraft:golden_helmet",
     "material": "minecraft:iron_helmet",
     "result": "minecraft:iron_helmet"
   }

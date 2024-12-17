@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_transmute",
     "group": "leggings_upgrade",
-    "input": "minecraft:leather_leggings",
+    "input": "minecraft:golden_leggings",
     "material": "minecraft:iron_leggings",
     "result": "minecraft:iron_leggings"
   }

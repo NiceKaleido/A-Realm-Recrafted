@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "boots_upgrade",
+    "input": [
+      "minecraft:diamond_boots",
+      "minecraft:golden_boots",
+      "minecraft:iron_boots",
+      "minecraft:leather_boots",
+      "minecraft:netherite_boots"
+    ],
+    "material": "minecraft:chainmail_boots",
+    "result": "minecraft:chainmail_boots"
+  }

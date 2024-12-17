@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "group": "helmet_upgrade",
+    "input": [
+      "minecraft:diamond_helmet",
+      "minecraft:golden_helmet",
+      "minecraft:iron_helmet",
+      "minecraft:leather_helmet",
+      "minecraft:netherite_helmet"
+    ],
+    "material": "minecraft:chainmail_helmet",
+    "result": "minecraft:chainmail_helmet"
+  }

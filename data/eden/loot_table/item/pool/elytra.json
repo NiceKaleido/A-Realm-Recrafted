@@ -1,0 +1,78 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/aetherian"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/bat"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/bee"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/cherry_blossom"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/cloudy"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/creaking"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/dragonfly"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/emperor_moth"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/fairy"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/ladybug"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/luna_mouth"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/mechanical_angel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/monarch"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/owl"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/parrot"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/red_moth"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/elytra/sculk"
+          }
+        ]
+      }
+    ]
+  }
+  

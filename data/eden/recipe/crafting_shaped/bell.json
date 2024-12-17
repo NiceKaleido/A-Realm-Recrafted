@@ -7,15 +7,15 @@
       "CNC"
     ],
     "key": {
-      "C": {
-        "item": "minecraft:chain"
-      },
-      "I": {
-        "item": "minecraft:gold_ingot"
-      },
-      "N": {
-        "item": "minecraft:gold_nugget"
-      }
+      "C": [
+        "minecraft:chain"
+      ],
+      "I": [
+        "minecraft:gold_ingot"
+      ],
+      "N": [
+        "minecraft:gold_nugget"
+      ]
     },
     "result": {
       "id": "minecraft:bell",

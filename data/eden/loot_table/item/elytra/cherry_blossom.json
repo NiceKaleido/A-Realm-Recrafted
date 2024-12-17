@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:elytra",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "{\"fallback\":\"Cherry Blossom Elytra\",\"translate\":\"equipment.eden.cherry_blossom_elytra\"}",
+                "minecraft:custom_data": "{equipment:cherry_blossom_elytra}",
+                "minecraft:item_model": "eden:equipment/cherry_blossom_elytra",
+                "minecraft:rarity": "epic",
+                "minecraft:equippable": {
+                  "slot": "chest",
+                  "asset_id": "eden:cherry_blossom"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
