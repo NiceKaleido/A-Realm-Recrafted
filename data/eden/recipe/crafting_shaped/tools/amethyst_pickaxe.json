@@ -7,23 +7,20 @@
       " # "
     ],
     "key": {
-      "#": {
-        "item": "minecraft:stick"
-      },
-      "X": {
-        "item": "minecraft:amethyst_shard"
-      }
+      "#": [
+        "minecraft:stick"
+      ],
+      "X": [
+        "minecraft:amethyst_shard"
+      ]
     },
     "result": {
-      "id": "minecraft:iron_pickaxe",
+      "id": "minecraft:wooden_pickaxe",
       "count": 1,
       "components": {
         "minecraft:item_name": "{\"fallback\":\"Amethyst Pickaxe\",\"translate\":\"tools.eden.pickaxe.amethyst\"}",
         "minecraft:custom_data": "{tools:amethyst_pickaxe}",
-        "minecraft:custom_model_data": 10008,
-        "minecraft:max_stack_size": 1,
-        "minecraft:damage": 0,
-        "minecraft:max_damage": 100,
+        "minecraft:item_model": "eden:tools/amethyst_pickaxe",
         "minecraft:rarity": "common"
       }
     }

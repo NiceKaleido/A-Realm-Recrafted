@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NCN",
+    "CRC",
+    "NCN"
+  ],
+  "key": {
+    "N": [
+      "minecraft:ancient_debris"
+    ],
+    "C": [
+      "minecraft:chain"
+    ],
+    "R": [
+      "minecraft:respawn_anchor"
+    ]
+  },
+  "result": {
+    "id": "minecraft:spawner"
+  }
+}

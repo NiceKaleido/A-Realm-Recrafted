@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_eggs",
+  "pattern": [
+    "xxx",
+    "x#x",
+    "xxx"
+  ],
+  "key": {
+    "x": [
+      "minecraft:coal"
+    ],
+    "#": [
+      "minecraft:dragon_egg"
+    ]
+  },
+  "result": {
+    "id": "minecraft:wither_skeleton_spawn_egg"
+  }
+}

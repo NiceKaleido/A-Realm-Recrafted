@@ -7,23 +7,20 @@
       " #"
     ],
     "key": {
-      "#": {
-        "item": "minecraft:stick"
-      },
-      "X": {
-        "item": "minecraft:amethyst_shard"
-      }
+      "#": [
+        "minecraft:stick"
+      ],
+      "X": [
+        "minecraft:amethyst_shard"
+      ]
     },
     "result": {
-      "id": "minecraft:iron_sword",
+      "id": "minecraft:wooden_sword",
       "count": 1,
       "components": {
         "minecraft:item_name": "{\"fallback\":\"Amethyst Sword\",\"translate\":\"tools.eden.sword.amethyst\"}",
         "minecraft:custom_data": "{tools:amethyst_sword}",
-        "minecraft:custom_model_data": 10008,
-        "minecraft:max_stack_size": 1,
-        "minecraft:damage": 0,
-        "minecraft:max_damage": 100,
+        "minecraft:item_model": "eden:tools/amethyst_sword",
         "minecraft:rarity": "common"
       }
     }

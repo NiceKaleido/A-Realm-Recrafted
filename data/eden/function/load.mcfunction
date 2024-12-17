@@ -27,6 +27,7 @@ schedule function eden:digsites/run_clear 60s
 schedule function eden:digsites/run 4t
 schedule function eden:key_golem/run 3s
 schedule function eden:key_golem/vault/run 9t
+schedule function eden:misc/cauldron_convertible 1s
 
 ##gamerules
 difficulty hard

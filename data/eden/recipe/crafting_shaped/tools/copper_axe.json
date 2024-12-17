@@ -7,12 +7,12 @@
       " #"
     ],
     "key": {
-      "#": {
-        "item": "minecraft:stick"
-      },
-      "X": {
-        "item": "minecraft:copper_ingot"
-      }
+      "#": [
+        "minecraft:stick"
+      ],
+      "X": [
+        "minecraft:copper_ingot"
+      ]
     },
     "result": {
       "id": "minecraft:iron_axe",
@@ -20,10 +20,7 @@
       "components": {
         "minecraft:item_name": "{\"fallback\":\"Copper Axe\",\"translate\":\"tools.eden.axe.copper\"}",
         "minecraft:custom_data": "{tools:copper_axe}",
-        "minecraft:custom_model_data": 10001,
-        "minecraft:max_stack_size": 1,
-        "minecraft:damage": 0,
-        "minecraft:max_damage": 175,
+        "minecraft:item_model": "eden:tools/copper_axe",
         "minecraft:rarity": "common"
       }
     }

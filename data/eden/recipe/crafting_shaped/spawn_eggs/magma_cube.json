@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_eggs",
+  "pattern": [
+    "xxx",
+    "x#x",
+    "xxx"
+  ],
+  "key": {
+    "x": [
+      "minecraft:magma_cream"
+    ],
+    "#": [
+      "minecraft:dragon_egg"
+    ]
+  },
+  "result": {
+    "id": "minecraft:magma_cube_spawn_egg"
+  }
+}

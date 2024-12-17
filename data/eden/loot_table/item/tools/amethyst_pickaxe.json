@@ -5,7 +5,7 @@
         "entries": [
           {
             "type": "minecraft:item",
-            "name": "minecraft:iron_pickaxe",
+            "name": "minecraft:wooden_pickaxe",
             "functions": [
               {
                 "function": "minecraft:set_components",
