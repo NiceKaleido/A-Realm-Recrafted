@@ -1,0 +1,162 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/acacia"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/air"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/bamboo"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/birch"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/bogged"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/bone"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/bow_of_the_lost_souls"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/cherry"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/chorus_flower"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/chorus"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/creeper"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/crimson"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/dark_oak"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/earth"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/elite_power"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/ender"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/endstone"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/fire"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/flame"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/flower"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/jungle"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/mangrove"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/nature"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/nocturnal"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/obsidian"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/phantom"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/prismarine"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/pure"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/purpur"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/red_snake"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/rose"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/sabrewing"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/spruce"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/thunder"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/vengeful"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/warped"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/water"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/bow/wither"
+          }
+        ]
+      }
+    ]
+  }
+  
