@@ -12,5 +12,12 @@ execute as @e[type=interaction,tag=weather_device] at @s run function migration:
 execute as @e[type=interaction,tag=outer_wilds_portal] at @s run function migration:outer_wilds_portal
 
 execute as @a at @s if items entity @s weapon.mainhand minecraft:music_disc_5[!minecraft:item_model,minecraft:custom_data] run function migration:discs
+execute as @a at @s if items entity @s weapon.mainhand minecraft:nautilus_shell[!minecraft:item_model,minecraft:custom_data] run function migration:hats
+execute as @a at @s if items entity @s weapon.mainhand minecraft:totem_of_undying[!minecraft:item_model,minecraft:custom_model_data] run function migration:totems
+execute as @a at @s if items entity @s weapon.mainhand #minecraft:axes[!minecraft:item_model,minecraft:custom_data] run function migration:axes
+execute as @a at @s if items entity @s weapon.mainhand #minecraft:hoes[!minecraft:item_model,minecraft:custom_data] run function migration:hoes
+execute as @a at @s if items entity @s weapon.mainhand #minecraft:pickaxes[!minecraft:item_model,minecraft:custom_data] run function migration:pickaxes
+execute as @a at @s if items entity @s weapon.mainhand #minecraft:swords[!minecraft:item_model,minecraft:custom_data] run function migration:swords
+execute as @a at @s if items entity @s weapon.mainhand #minecraft:shovels[!minecraft:item_model,minecraft:custom_data] run function migration:shovels
 
 schedule function migration:run 1s
