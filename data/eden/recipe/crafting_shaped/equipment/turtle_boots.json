@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "X": "minecraft:turtle_scute"
+    },
+    "pattern": [
+      "X X",
+      "X X"
+    ],
+    "result": {
+      "components": {
+        "minecraft:item_name": "{\"fallback\":\"Turtle Boots\",\"translate\":\"equipment.eden.turtle_boots\"}",
+        "minecraft:custom_data": "{equipment:turtle_boots}",
+        "minecraft:item_model": "eden:equipment/turtle_boots",
+        "minecraft:equippable": {
+          "slot": "feet",
+          "asset_id": "eden:turtle"
+        }
+      },
+      "count": 1,
+      "id": "minecraft:leather_boots"
+    }
+  }

@@ -1,0 +1,25 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:iron_hoe",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Verdant Hoe\",\"translate\":\"tools.eden.hoe.verdant\"}",
+                  "minecraft:custom_data": "{tools:verdant_hoe}",
+                  "minecraft:item_model": "eden:tools/verdant_hoe",
+                  "minecraft:rarity": "rare"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

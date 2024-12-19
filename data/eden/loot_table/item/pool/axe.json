@@ -25,10 +25,6 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:item/tool/_axe"
-          },
-          {
-            "type": "minecraft:loot_table",
             "value": "eden:item/tool/cherry_axe"
           },
           {
@@ -150,6 +146,26 @@
           {
             "type": "minecraft:loot_table",
             "value": "eden:item/tool/blazing"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/aetherian_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/crystal_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/melon_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sakura_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/verdant_axe"
           }
         ]
       }

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "X": "minecraft:armadillo_scute"
+    },
+    "pattern": [
+      "X X",
+      "X X"
+    ],
+    "result": {
+      "components": {
+        "minecraft:item_name": "{\"fallback\":\"Armadillo Boots\",\"translate\":\"equipment.eden.armadillo_boots\"}",
+        "minecraft:custom_data": "{equipment:armadillo_boots}",
+        "minecraft:item_model": "eden:equipment/armadillo_boots",
+        "minecraft:equippable": {
+          "slot": "feet",
+          "asset_id": "eden:armadillo"
+        }
+      },
+      "count": 1,
+      "id": "minecraft:leather_boots"
+    }
+  }

@@ -25,10 +25,6 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:item/tool/_pickaxe"
-          },
-          {
-            "type": "minecraft:loot_table",
             "value": "eden:item/tool/cherry_pickaxe"
           },
           {
@@ -150,6 +146,26 @@
           {
             "type": "minecraft:loot_table",
             "value": "eden:item/tool/hefty"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/aetherian_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/crystal_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/melon_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sakura_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/verdant_pickaxe"
           }
         ]
       }

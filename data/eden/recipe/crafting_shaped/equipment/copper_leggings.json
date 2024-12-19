@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "X": "minecraft:copper_ingot"
+    },
+    "pattern": [
+      "XXX",
+      "X X",
+      "X X"
+    ],
+    "result": {
+      "components": {
+        "minecraft:item_name": "{\"fallback\":\"Copper Leggings\",\"translate\":\"equipment.eden.copper_leggings\"}",
+        "minecraft:custom_data": "{equipment:copper_leggings}",
+        "minecraft:item_model": "eden:equipment/copper_leggings",
+        "minecraft:equippable": {
+          "slot": "legs",
+          "asset_id": "eden:copper"
+        }
+      },
+      "count": 1,
+      "id": "minecraft:leather_leggings"
+    }
+  }

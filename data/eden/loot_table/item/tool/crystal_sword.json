@@ -1,0 +1,25 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:iron_sword",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Crystal Sword\",\"translate\":\"tools.eden.sword.crystal\"}",
+                  "minecraft:custom_data": "{tools:crystal_sword}",
+                  "minecraft:item_model": "eden:tools/crystal_sword",
+                  "minecraft:rarity": "rare"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

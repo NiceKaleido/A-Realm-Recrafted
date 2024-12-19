@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "X": "minecraft:turtle_scute"
+    },
+    "pattern": [
+      "X X",
+      "XXX",
+      "XXX"
+    ],
+    "result": {
+      "components": {
+        "minecraft:item_name": "{\"fallback\":\"Turtle Chestplate\",\"translate\":\"equipment.eden.turtle_chestplate\"}",
+        "minecraft:custom_data": "{equipment:turtle_chestplate}",
+        "minecraft:item_model": "eden:equipment/turtle_chestplate",
+        "minecraft:equippable": {
+          "slot": "chest",
+          "asset_id": "eden:turtle"
+        }
+      },
+      "count": 1,
+      "id": "minecraft:leather_chestplate"
+    }
+  }

@@ -25,10 +25,6 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:item/tool/_sword"
-          },
-          {
-            "type": "minecraft:loot_table",
             "value": "eden:item/tool/cherry_sword"
           },
           {
@@ -174,6 +170,26 @@
           {
             "type": "minecraft:loot_table",
             "value": "eden:item/tool/withersbane"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/aetherian_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/crystal_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/melon_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sakura_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/verdant_sword"
           }
         ]
       }

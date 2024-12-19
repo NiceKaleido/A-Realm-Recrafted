@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "X": "minecraft:armadillo_scute"
+    },
+    "pattern": [
+      "XXX",
+      "X X"
+    ],
+    "result": {
+      "components": {
+        "minecraft:item_name": "{\"fallback\":\"Armadillo Helmet\",\"translate\":\"equipment.eden.armadillo_helmet\"}",
+        "minecraft:custom_data": "{equipment:armadillo_helmet}",
+        "minecraft:item_model": "eden:equipment/armadillo_helmet",
+        "minecraft:equippable": {
+          "slot": "head",
+          "asset_id": "eden:armadillo"
+        }
+      },
+      "count": 1,
+      "id": "minecraft:leather_helmet"
+    }
+  }

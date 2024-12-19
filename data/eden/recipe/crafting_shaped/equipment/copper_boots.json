@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "X": "minecraft:copper_ingot"
+    },
+    "pattern": [
+      "X X",
+      "X X"
+    ],
+    "result": {
+      "components": {
+        "minecraft:item_name": "{\"fallback\":\"Copper Boots\",\"translate\":\"equipment.eden.copper_boots\"}",
+        "minecraft:custom_data": "{equipment:copper_boots}",
+        "minecraft:item_model": "eden:equipment/copper_boots",
+        "minecraft:equippable": {
+          "slot": "feet",
+          "asset_id": "eden:copper"
+        }
+      },
+      "count": 1,
+      "id": "minecraft:leather_boots"
+    }
+  }

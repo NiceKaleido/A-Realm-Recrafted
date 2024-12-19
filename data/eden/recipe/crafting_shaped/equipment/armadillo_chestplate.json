@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "X": "minecraft:armadillo_scute"
+    },
+    "pattern": [
+      "X X",
+      "XXX",
+      "XXX"
+    ],
+    "result": {
+      "components": {
+        "minecraft:item_name": "{\"fallback\":\"Armadillo Chestplate\",\"translate\":\"equipment.eden.armadillo_chestplate\"}",
+        "minecraft:custom_data": "{equipment:armadillo_chestplate}",
+        "minecraft:item_model": "eden:equipment/armadillo_chestplate",
+        "minecraft:equippable": {
+          "slot": "chest",
+          "asset_id": "eden:armadillo"
+        }
+      },
+      "count": 1,
+      "id": "minecraft:leather_chestplate"
+    }
+  }

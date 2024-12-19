@@ -25,10 +25,6 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:item/tool/_hoe"
-          },
-          {
-            "type": "minecraft:loot_table",
             "value": "eden:item/tool/cherry_hoe"
           },
           {
@@ -146,6 +142,26 @@
           {
             "type": "minecraft:loot_table",
             "value": "eden:item/tool/wither_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/aetherian_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/crystal_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/melon_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sakura_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/verdant_hoe"
           }
         ]
       }

@@ -1,0 +1,25 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:iron_hoe",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Melon Hoe\",\"translate\":\"tools.eden.hoe.melon\"}",
+                  "minecraft:custom_data": "{tools:melon_hoe}",
+                  "minecraft:item_model": "eden:tools/melon_hoe",
+                  "minecraft:rarity": "rare"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

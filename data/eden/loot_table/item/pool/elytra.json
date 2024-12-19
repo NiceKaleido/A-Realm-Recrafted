@@ -45,7 +45,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:item/elytra/luna_mouth"
+            "value": "eden:item/elytra/luna_moth"
           },
           {
             "type": "minecraft:loot_table",

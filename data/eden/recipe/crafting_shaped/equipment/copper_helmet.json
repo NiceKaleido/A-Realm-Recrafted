@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "X": "minecraft:copper_ingot"
+    },
+    "pattern": [
+      "XXX",
+      "X X"
+    ],
+    "result": {
+      "components": {
+        "minecraft:item_name": "{\"fallback\":\"Copper Helmet\",\"translate\":\"equipment.eden.copper_helmet\"}",
+        "minecraft:custom_data": "{equipment:copper_helmet}",
+        "minecraft:item_model": "eden:equipment/copper_helmet",
+        "minecraft:equippable": {
+          "slot": "head",
+          "asset_id": "eden:copper"
+        }
+      },
+      "count": 1,
+      "id": "minecraft:leather_helmet"
+    }
+  }

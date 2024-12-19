@@ -25,10 +25,6 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:item/tool/_shovel"
-          },
-          {
-            "type": "minecraft:loot_table",
             "value": "eden:item/tool/cherry_shovel"
           },
           {
@@ -146,6 +142,26 @@
           {
             "type": "minecraft:loot_table",
             "value": "eden:item/tool/wither_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/aetherian_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/crystal_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/melon_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/sakura_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/verdant_shovel"
           }
         ]
       }

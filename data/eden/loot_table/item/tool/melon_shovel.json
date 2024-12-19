@@ -1,0 +1,25 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:iron_shovel",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Melon Shovel\",\"translate\":\"tools.eden.shovel.melon\"}",
+                  "minecraft:custom_data": "{tools:melon_shovel}",
+                  "minecraft:item_model": "eden:tools/melon_shovel",
+                  "minecraft:rarity": "rare"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
