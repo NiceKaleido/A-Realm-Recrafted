@@ -11,6 +11,7 @@
                 "function": "minecraft:set_components",
                 "components": {
                   "minecraft:item_model": "eden:totems/illager_of_undying",
+                  "minecraft:custom_data": "{totem:illager}",
                   "minecraft:item_name": "{\"fallback\":\"Illager of Undying\",\"translate\":\"totems.eden.illager\"}"
                 }
               }

@@ -31,3 +31,9 @@ particle minecraft:poof ~ ~.6 ~ .5 .5 .5 0 100
 particle minecraft:end_rod ~ ~.6 ~ 1 1 1 0.01 50
 particle minecraft:scrape ~ ~.6 ~ .8 .8 .8 0.3 50
 execute at @s run playsound minecraft:ui.toast.challenge_complete master @s ~ ~ ~ 0.5 0.5 1
+
+give @s goml:makeshift_claim_anchor
+give @s goml:goggles
+give @s minecraft:bread 16
+give @s minecraft:wooden_axe
+give @s minecraft:wooden_pickaxe

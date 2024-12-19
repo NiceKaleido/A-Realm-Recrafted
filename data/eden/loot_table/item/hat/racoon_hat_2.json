@@ -11,7 +11,7 @@
                 "function": "minecraft:set_components",
                 "components": {
                   "minecraft:item_name": "{\"bold\":false,\"italic\":false,\"text\":\"Racoon Hat\"}",
-                  "minecraft:custom_data": "{hats:racoon_hat}",
+                  "minecraft:custom_data": "{hats:racoon_hat_2}",
                   "minecraft:item_model": "eden:hats/recoon_hat_2",
                 "minecraft:equippable": {
                   "slot": "head",
