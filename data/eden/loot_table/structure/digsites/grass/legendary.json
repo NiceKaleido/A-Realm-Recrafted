@@ -38,13 +38,8 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:items/pools/misc_rare_bows",
-            "weight": 2
-          },
-          {
-            "type": "minecraft:loot_table",
-            "value": "eden:items/pools/misc_uncommon_bows",
-            "weight": 10
+            "value": "eden:item/pool/bow",
+            "weight": 5
           },
           {
             "type": "minecraft:item",
@@ -303,7 +298,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:items/pools/all_food",
+            "value": "eden:item/pool/golden_food",
             "weight": 10,
             "functions": [
               {
@@ -317,7 +312,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "automaticons:iron_tier",
+            "value": "eden:item/automaticons/iron_tier",
             "weight": 8,
             "functions": [
               {
@@ -331,7 +326,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "automaticons:gold_tier",
+            "value": "eden:item/automaticons/gold_tier",
             "weight": 8,
             "functions": [
               {
@@ -345,7 +340,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:items/pools/all_bundles",
+            "value": "eden:entity/rarity_mob/colored_bundles",
             "weight": 8
           }
         ]
@@ -369,8 +364,8 @@
             "name": "minecraft:clock"
           },
           {
-            "type": "minecraft:loot_table",
-            "value": "eden:items/pools/all_weather_device_items",
+            "type": "minecraft:item",
+            "name": "goml:reinforced_claim_anchor",
             "weight": 10
           },
           {
@@ -389,7 +384,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:vault_keys/golden",
+            "value": "eden:item/pool/key_golem",
             "weight": 15
           }
         ]
@@ -399,7 +394,7 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "value": "eden:items/pools/all_hats",
+            "value": "eden:item/pool/hat",
             "conditions": [
               {
                 "condition": "minecraft:random_chance",
@@ -414,13 +409,22 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "value": "eden:items/pools/all_non_mob_tools_rare",
-            "conditions": [
-              {
-                "condition": "minecraft:random_chance",
-                "chance": 0.15
-              }
-            ]
+            "value": "eden:item/equipment/cottage_boots"
+          },{
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/cottage_chestplate"
+          },{
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/cottage_helmet"
+          },{
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/cottage_leggings"
+          }          
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:random_chance",
+            "chance": 0.15
           }
         ]
       },
@@ -429,7 +433,7 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "value": "eden:items/pools/all_discs",
+            "value": "eden:item/pool/disc",
             "conditions": [
               {
                 "condition": "minecraft:random_chance",

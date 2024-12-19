@@ -124,7 +124,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:items/pools/all_food",
+            "value": "eden:item/pool/golden_food",
             "weight": 10,
             "functions": [
               {
@@ -138,8 +138,8 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:items/pools/all_bundles",
-            "weight": 3
+            "value": "eden:entity/rarity_mob/colored_bundles",
+            "weight": 10            
           }
         ]
       }
