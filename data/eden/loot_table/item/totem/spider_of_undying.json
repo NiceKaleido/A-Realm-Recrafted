@@ -11,6 +11,7 @@
                 "function": "minecraft:set_components",
                 "components": {
                   "minecraft:item_model": "eden:totems/spider_of_undying",
+                  "minecraft:custom_data": "{totem:spider}",
                   "minecraft:item_name": "{\"fallback\":\"Spider of Undying\",\"translate\":\"totems.eden.spider\"}"
                 }
               }

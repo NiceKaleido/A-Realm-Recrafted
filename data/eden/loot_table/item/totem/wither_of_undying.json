@@ -11,6 +11,7 @@
                 "function": "minecraft:set_components",
                 "components": {
                   "minecraft:item_model": "eden:totems/wither_of_undying",
+                  "minecraft:custom_data": "{totem:wither}",
                   "minecraft:item_name": "{\"fallback\":\"Wither of Undying\",\"translate\":\"totems.eden.wither\"}"
                 }
               }

@@ -11,6 +11,7 @@
                 "function": "minecraft:set_components",
                 "components": {
                   "minecraft:item_model": "eden:totems/bat_of_undying",
+                  "minecraft:custom_data": "{totem:bat}",
                   "minecraft:item_name": "{\"fallback\":\"Bat of Undying\",\"translate\":\"totems.eden.bat\"}"
                 }
               }
