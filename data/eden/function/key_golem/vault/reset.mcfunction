@@ -1,0 +1,1 @@
+execute as @e[type=marker,tag=key_golem_vault] at @s run data remove block ~ ~ ~ server_data.rewarded_players
