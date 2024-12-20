@@ -1,0 +1,59 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/festive_axe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/festive_hoe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/festive_pickaxe"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/festive_shovel"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/tool/festive_sword"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/candlestick_hat"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/elf_hat"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/reindeer_antlers"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/santa_claus"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/deer_hat"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/pool/key_golem"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -12,7 +12,7 @@
                 "components": {
                   "minecraft:item_name": "{\"fallback\":\"Aztec Axe\",\"translate\":\"tools.eden.axe.aztec\"}",
                   "minecraft:custom_data": "{tools:aztec_axe}",
-                  "minecraft:item_model": "eden:tools/aztex_axe",
+                  "minecraft:item_model": "eden:tools/aztec_axe",
                   "minecraft:rarity": "rare"
                 }
               }

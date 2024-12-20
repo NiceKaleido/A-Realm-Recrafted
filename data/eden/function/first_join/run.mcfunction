@@ -1,3 +1,5 @@
+execute if predicate eden:entity/has_heritage run return fail
+
 execute store result storage eden:temp joined.scale int 1 run random value 0..9
 
 ##TP to spawn
