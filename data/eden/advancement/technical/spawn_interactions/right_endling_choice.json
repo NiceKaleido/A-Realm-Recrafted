@@ -17,7 +17,7 @@
       }
     },
     "rewards": {
-      "function": "eden:player_races/books/endling"
+      "function": "eden:spawn/heritage_displays/endling"
     }
   }
   

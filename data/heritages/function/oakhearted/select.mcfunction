@@ -37,3 +37,14 @@ give @s goml:goggles
 give @s minecraft:bread 16
 give @s minecraft:wooden_axe
 give @s minecraft:wooden_pickaxe
+
+function eden:rtp/get_data
+
+clear @s minecraft:arms_up_pottery_sherd[minecraft:custom_data={token:dunesworn}]
+clear @s minecraft:ender_eye[minecraft:custom_data={token:endling}]
+clear @s minecraft:powder_snow_bucket[minecraft:custom_data={token:frostborne}]
+clear @s minecraft:echo_shard[minecraft:custom_data={token:moonshroud}]
+clear @s minecraft:fire_charge[minecraft:custom_data={token:netherian}]
+clear @s minecraft:oak_sapling[minecraft:custom_data={token:oakhearted}]
+clear @s minecraft:stone_pickaxe[minecraft:custom_data={token:orebringer}]
+clear @s minecraft:nautilus_shell[minecraft:custom_data={token:turtlekin}]

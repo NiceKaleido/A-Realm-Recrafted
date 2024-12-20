@@ -715,6 +715,10 @@
         },
         {
           "type": "minecraft:loot_table",
+          "value": "eden:item/pool/goml"
+        },
+        {
+          "type": "minecraft:loot_table",
           "value": "eden:item/pool/sherd",
           "functions": [
             {
