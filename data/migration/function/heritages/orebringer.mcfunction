@@ -5,7 +5,7 @@ attribute @s minecraft:movement_speed modifier remove move_speed_orebringer
 attribute @s minecraft:jump_strength modifier remove jump_strength_orebringer
 
 attribute @s[tag=orebringer] minecraft:block_break_speed base set 2
-attribute @s[tag=orebringer] minecraft:jump_strength base set 0.33
+attribute @s minecraft:block_interaction_range base set 3.5
 
 scoreboard players set @s heritages.guardians.on_cooldown 0
 scoreboard players set @s heritages.guardians 0
