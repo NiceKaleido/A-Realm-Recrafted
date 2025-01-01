@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": "minecraft:dripstone_block"
+    },
+    "result": {
+      "id": "filament:dripstone_bricks",
+      "count": 4
+    }
+  }

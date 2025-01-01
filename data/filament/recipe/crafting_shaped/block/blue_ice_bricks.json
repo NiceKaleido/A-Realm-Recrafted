@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": "minecraft:blue_ice"
+    },
+    "result": {
+      "id": "filament:blue_ice_bricks",
+      "count": 4
+    }
+  }

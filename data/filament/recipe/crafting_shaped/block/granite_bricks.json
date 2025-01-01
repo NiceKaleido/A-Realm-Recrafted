@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": "minecraft:polished_granite"
+    },
+    "result": {
+      "id": "filament:granite_bricks",
+      "count": 4
+    }
+  }

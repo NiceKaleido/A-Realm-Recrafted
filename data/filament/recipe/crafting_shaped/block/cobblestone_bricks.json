@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": "minecraft:cobblestone"
+    },
+    "result": {
+      "id": "filament:cobblestone_bricks",
+      "count": 4
+    }
+  }

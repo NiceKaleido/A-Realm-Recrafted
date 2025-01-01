@@ -1,0 +1,24 @@
+{
+   "id" : "filament:mossy_tuff_bricks",
+   "blockResource": {
+      "models" : {
+         "default" : "filament:item/custom/block/bricks/mossy_tuff_bricks"
+      }
+   },
+   "properties" : {
+      "blockBase" : "minecraft:tuff_bricks",
+      "itemBase" : "minecraft:paper",
+      "requiresTool": true,
+      "explosionResistance": 6,
+      "destroyTime":7.5,
+      "redstoneConductor": true,
+      "lightEmission": 0,
+      "transparent": false,
+      "allowsSpawning": true,
+      "replaceable": false,
+      "collsion": true,
+      "solid": true,
+      "pushReaction": "normal"
+   },
+   "blockModelType" : "full_block"
+}

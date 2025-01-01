@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "filament:diorite_bricks",
+    "minecraft:moss_block"
+  ],
+  "result": {
+    "id": "filament:mossy_diorite_bricks"
+  }
+}

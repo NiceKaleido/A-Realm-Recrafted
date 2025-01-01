@@ -1,0 +1,24 @@
+{
+   "id" : "filament:crying_obsidian_bricks",
+   "blockResource": {
+      "models" : {
+         "default" : "filament:item/custom/block/bricks/crying_obsidian_bricks"
+      }
+   },
+   "properties" : {
+      "blockBase" : "minecraft:crying_obsidian",
+      "itemBase" : "minecraft:paper",
+      "requiresTool": true,
+      "explosionResistance": 1200,
+      "destroyTime":250,
+      "redstoneConductor": true,
+      "lightEmission": 0,
+      "transparent": false,
+      "allowsSpawning": true,
+      "replaceable": false,
+      "collsion": true,
+      "solid": true,
+      "pushReaction": "block"
+   },
+   "blockModelType" : "full_block"
+}

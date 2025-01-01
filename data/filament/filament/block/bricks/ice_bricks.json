@@ -1,0 +1,24 @@
+{
+   "id" : "filament:ice_bricks",
+   "blockResource": {
+      "models" : {
+         "default" : "filament:item/custom/block/bricks/ice_bricks"
+      }
+   },
+   "properties" : {
+      "blockBase" : "minecraft:ice",
+      "itemBase" : "minecraft:paper",
+      "requiresTool": true,
+      "explosionResistance": 0.5,
+      "destroyTime":0.75,
+      "redstoneConductor": false,
+      "lightEmission": 0,
+      "transparent": false,
+      "allowsSpawning": true,
+      "replaceable": false,
+      "collsion": true,
+      "solid": true,
+      "pushReaction": "normal"
+   },
+   "blockModelType" : "full_block"
+}

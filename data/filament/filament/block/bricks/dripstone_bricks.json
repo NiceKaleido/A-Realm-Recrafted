@@ -1,0 +1,24 @@
+{
+   "id" : "filament:dripstone_bricks",
+   "blockResource": {
+      "models" : {
+         "default" : "filament:item/custom/block/bricks/dripstone_bricks"
+      }
+   },
+   "properties" : {
+      "blockBase" : "minecraft:dripstone_block",
+      "itemBase" : "minecraft:paper",
+      "requiresTool": true,
+      "explosionResistance": 1,
+      "destroyTime":7.5,
+      "redstoneConductor": true,
+      "lightEmission": 0,
+      "transparent": false,
+      "allowsSpawning": true,
+      "replaceable": false,
+      "collsion": true,
+      "solid": true,
+      "pushReaction": "normal"
+   },
+   "blockModelType" : "full_block"
+}

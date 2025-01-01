@@ -1,0 +1,24 @@
+{
+   "id" : "filament:red_sandstone_bricks",
+   "blockResource": {
+      "models" : {
+         "default" : "filament:item/custom/block/bricks/red_sandstone_bricks"
+      }
+   },
+   "properties" : {
+      "blockBase" : "minecraft:red_sandstone",
+      "itemBase" : "minecraft:paper",
+      "requiresTool": true,
+      "explosionResistance": 0.8,
+      "destroyTime":4,
+      "redstoneConductor": true,
+      "lightEmission": 0,
+      "transparent": false,
+      "allowsSpawning": true,
+      "replaceable": false,
+      "collsion": true,
+      "solid": true,
+      "pushReaction": "normal"
+   },
+   "blockModelType" : "full_block"
+}
