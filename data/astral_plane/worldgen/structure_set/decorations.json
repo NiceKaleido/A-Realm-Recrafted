@@ -1,0 +1,32 @@
+
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 30,
+        "separation": 6,
+        "salt": 21021000,
+        "spread_type": "triangular"
+    },
+    "structures": [
+    {
+        "structure": "astral_plane:basalt_wall",
+        "weight": 1
+    },
+    {
+        "structure": "astral_plane:fossils",
+        "weight": 1
+    },
+    {
+        "structure": "astral_plane:blackstone_ruins",
+        "weight": 1
+    },
+    {
+        "structure": "astral_plane:red_monolith",
+        "weight": 1
+    },
+    {
+        "structure": "astral_plane:shroom_infest",
+        "weight": 1
+    }
+]
+}

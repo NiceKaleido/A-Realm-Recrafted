@@ -54,25 +54,26 @@
 		]
 	  },
 	  "trunk_placer": {
-		"type": "minecraft:dark_oak_trunk_placer",
-		"base_height": 20,
+		"type": "minecraft:mega_jungle_trunk_placer",
+		"base_height": 13,
 		"height_rand_a": 10,
-		"height_rand_b": 24
+		"height_rand_b": 21
 	  },
 	  "foliage_placer": {
 		"type": "minecraft:fancy_foliage_placer",
-		"radius": 7,
-		"offset": 2,
-		"height": 3
+		"radius": {
+		  "type": "minecraft:uniform",
+		  "min_inclusive": 4,
+		  "max_inclusive": 7
+		},
+		"offset": {
+		  "type": "minecraft:uniform",
+		  "min_inclusive": 0,
+		  "max_inclusive": 1
+		},
+		"height": 2
 	  },
 	  "decorators": [
-		{
-		  "type": "minecraft:trunk_vine"
-		},
-		{
-		  "type": "minecraft:leave_vine",
-		  "probability": 0.1
-		},
 		{
 		  "type": "minecraft:alter_ground",
 		  "provider": {
@@ -116,8 +117,14 @@
 			  }
 			]
 		  }
+		},
+		{
+		  "type": "minecraft:trunk_vine"
+		},
+		{
+		  "type": "minecraft:leave_vine",
+		  "probability": 0.1
 		}
 	  ]
 	}
   }
-  

@@ -30,12 +30,6 @@
         "weight": 10,
         "minCount": 5,
         "maxCount": 5
-      },
-      {
-        "type": "minecraft:cat",
-        "weight": 5,
-        "minCount": 1,
-        "maxCount": 2
       }
     ],
     "axolotls": [],
@@ -109,10 +103,6 @@
     "water_creature": []
   },
   "spawn_costs": {
-    "minecraft:cat": {
-      "energy_budget": 0.12,
-      "charge": 1
-    },
     "minecraft:ravager": {
       "energy_budget": 0.12,
       "charge": 1

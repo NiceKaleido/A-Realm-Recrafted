@@ -1,0 +1,13 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 16,
+        "separation": 11,
+        "salt": 284894841,
+        "spread_type": "triangular"
+    },
+    "structures": [{
+        "structure": "astral_plane:bastion",
+        "weight": 1
+    }]
+}
