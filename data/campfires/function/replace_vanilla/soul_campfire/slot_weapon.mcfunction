@@ -1,0 +1,2 @@
+execute as @a if items entity @s weapon.mainhand minecraft:soul_campfire[!minecraft:custom_data] run item modify entity @s weapon.mainhand eden:lit_soul_campfire
+execute as @a if items entity @s weapon.offhand minecraft:soul_campfire[!minecraft:custom_data] run item modify entity @s weapon.offhand eden:lit_soul_campfire

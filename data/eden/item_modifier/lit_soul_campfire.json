@@ -1,0 +1,12 @@
+{
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:item_name": "{\"bold\":false,\"italic\":false,\"text\":\"Lit Soul Campfire\"}",
+      "minecraft:block_state": {
+        "lit": "true"
+      },
+      "minecraft:custom_data": {
+        "campfires": "lit_soul_campfire"
+      }
+    }
+  }
