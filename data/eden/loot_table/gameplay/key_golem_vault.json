@@ -10,22 +10,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_horse_armor"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:iron_horse_armor"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:golden_horse_armor"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:diamond_horse_armor"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:bee_nest",
           "functions": [
             {
@@ -58,10 +42,6 @@
               }
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:budding_amethyst"
         },
         {
           "type": "minecraft:item",
@@ -203,20 +183,6 @@
                 "type": "minecraft:uniform",
                 "min": 16,
                 "max": 48
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:amethyst_block",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 32,
-                "max": 64
               }
             }
           ]
@@ -612,62 +578,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:small_amethyst_bud",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 2,
-                "max": 14
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:medium_amethyst_bud",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 2,
-                "max": 14
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:large_amethyst_bud",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 2,
-                "max": 14
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:amethyst_cluster",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 2,
-                "max": 14
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:trident"
         },
         {
@@ -678,23 +588,154 @@
           "type": "minecraft:loot_table",
           "value": "eden:gameplay/easter_egg"
         },
-        {
-          "type": "minecraft:loot_table",
-          "value": "eden:gameplay/player_head"
-        },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:diamond_horse_armor"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:golden_horse_armor"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:iron_horse_armor"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:leather_horse_armor"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:budding_amethyst"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:amethyst_block",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 32,
+                    "max": 64
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:small_amethyst_bud",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 2,
+                    "max": 14
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:medium_amethyst_bud",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 2,
+                    "max": 14
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:large_amethyst_bud",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 2,
+                    "max": 14
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:amethyst_cluster",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 2,
+                    "max": 14
+                  }
+                }
+              ]
+            },
         {
           "type": "minecraft:item",
-          "name": "minecraft:campfire",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 1,
-                "max": 8
-              }
-            }
-          ]
+          "name": "minecraft:creaking_heart"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/tool"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/equipment"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/disc"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/elytra"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/golden_food"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/hat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/key_golem"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/template"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/totem"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/goml"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/spawn_egg"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.65
         }
       ]
     }

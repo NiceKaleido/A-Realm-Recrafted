@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:gift",
   "pools": [
     {
       "rolls": 1,
@@ -131,6 +130,19 @@
               }
             }
           ],
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "dimension": "minecraft:the_nether"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_scrap",
+          "weight": 1,
           "conditions": [
             {
               "condition": "minecraft:location_check",
@@ -822,6 +834,17 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:golden_carrot",
           "weight": 8,
           "functions": [
@@ -971,22 +994,63 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:wolf_armor",
-          "weight": 5,
+          "weight": 2,
           "functions": [
             {
-              "function": "minecraft:set_damage",
-              "damage": {
-                "min": 1,
-                "max": 40
-              },
-              "conditions": [
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biomes": "#minecraft:is_forest"
-                  }
-                }
-              ]
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:damage": 7
+              }
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#minecraft:is_forest"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wolf_armor",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:damage": 8
+              }
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#minecraft:is_forest"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wolf_armor",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:damage": 21
+              }
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "biomes": "#minecraft:is_forest"
+              }
             }
           ]
         }
