@@ -1,0 +1,22 @@
+{
+    "function": "minecraft:set_lore",
+    "lore": [
+      [
+        {
+          "text": "Base Material: ",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Diamond",
+          "color": "#2CBAA8",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    ],
+    "mode": "replace_section",
+    "offset": 0,
+    "size": 1
+  }

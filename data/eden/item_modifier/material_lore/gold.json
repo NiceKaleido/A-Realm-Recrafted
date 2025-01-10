@@ -1,0 +1,22 @@
+{
+    "function": "minecraft:set_lore",
+    "lore": [
+      [
+        {
+          "text": "Base Material: ",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Gold",
+          "color": "#DEB12D",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    ],
+    "mode": "replace_section",
+    "offset": 0,
+    "size": 1
+  }
