@@ -46,11 +46,7 @@
           },
           {
             "type": "minecraft:item",
-            "name": "minecraft:_spawn_egg"
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:evoker_spawn_egg"
+            "name": "minecraft:pillager_spawn_egg"
           },
           {
             "type": "minecraft:item",
