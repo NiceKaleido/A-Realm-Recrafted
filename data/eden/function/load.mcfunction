@@ -42,7 +42,7 @@ gamerule snowAccumulationHeight 4
 gamerule lavaSourceConversion true
 gamerule playersNetherPortalDefaultDelay 1
 gamerule commandBlockOutput false
-gamerule playersSleepingPercentage 75
+gamerule playersSleepingPercentage 66
 gamerule announceAdvancements false
 gamerule enderPearlsVanishOnDeath true
 gamerule sendCommandFeedback false
