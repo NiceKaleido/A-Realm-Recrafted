@@ -20,4 +20,4 @@ execute as @e[type=interaction,tag=outer_wilds_portal] at @s run function migrat
 #execute as @a at @s if items entity @s weapon.mainhand #minecraft:swords[minecraft:custom_model_data,minecraft:custom_data] run function migration:tools/get_enchantments
 #execute as @a at @s if items entity @s weapon.mainhand #minecraft:shovels[minecraft:custom_model_data,minecraft:custom_data] run function migration:tools/get_enchantments
 
-schedule function migration:run 1s
+schedule function migration:run 13s
