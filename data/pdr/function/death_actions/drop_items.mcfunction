@@ -126,7 +126,7 @@ execute at @s positioned ~ 320 ~ run data modify entity @e[type=item,tag=slot_10
 $execute in $(Dimension) run tp @e[type=item,tag=dropped] $(Pos0) $(Pos1).9 $(Pos2)
 
 ##Drop Player Head
-$execute in $(Dimension) run loot spawn $(Pos0) $(Pos1).9 $(Pos2) loot eden:gameplay/player_head
+$execute in $(Dimension) if predicate eden:percentages/30 run loot spawn $(Pos0) $(Pos1).9 $(Pos2) loot eden:gameplay/player_head
 
 ##Clear Player Inv
 clear @s #eden:droppable_items
