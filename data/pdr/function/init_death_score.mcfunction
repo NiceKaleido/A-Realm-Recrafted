@@ -1,1 +1,0 @@
-scoreboard players set @s pdr.days.no.death 0

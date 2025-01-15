@@ -34,6 +34,8 @@
       {"id": "pdr:load","required": false},
       {"id": "wawo:load","required": false},
       {"id": "campfires:load","required": false},
-      {"id": "migration:load","required": false}
+      {"id": "migration:load","required": false},
+      {"id": "keepinv:load","required": false},
+      {"id": "death_tweaks:load","required": false}
     ]
   }
