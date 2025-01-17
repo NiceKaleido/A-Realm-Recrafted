@@ -1,14 +1,17 @@
 {
-    "structures": [
-      {
-        "structure": "astral_plane:end_city",
-        "weight": 1
-      }
-    ],
-    "placement": {
-      "type": "minecraft:random_spread",
-      "salt": 1646201450,
-      "spacing": 50,
-      "separation": 25
+  "structures": [
+    {
+      "structure": "astral_plane:end_city",
+      "weight": 1
     }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spread_type": "triangular",
+    "salt": 398345608,
+    "spacing": 50,
+    "separation": 25,
+    "frequency_reduction_method": "default",
+    "frequency": 0.8
   }
+}

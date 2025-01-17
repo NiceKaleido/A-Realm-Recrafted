@@ -1,15 +1,21 @@
 {
 	"structures": [
-		{
-			"structure": "astral_plane:blackstone_fort",
-			"weight": 1
-		}
+	  {
+		"structure": "astral_plane:blackstone_fort",
+		"weight": 1
+	  }
 	],
 	"placement": {
-		"type": "minecraft:random_spread",
-		"salt": 883764627,
-		"frequency": 1,
-		"spacing": 64,
-		"separation": 32
+	  "type": "minecraft:random_spread",
+	  "spread_type": "triangular",
+	  "salt": 354380759,
+	  "frequency_reduction_method": "default",
+	  "frequency": 0.8,
+	  "spacing": 96,
+	  "separation": 48,
+	  "exclusion_zone": {
+		"other_set": "minecraft:villages",
+		"chunk_count": 16
+	  }
 	}
-}
+  }

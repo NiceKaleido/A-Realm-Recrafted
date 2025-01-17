@@ -30,6 +30,7 @@ schedule function eden:key_golem/vault/run 9t
 schedule function eden:misc/cauldron_convertible 1s
 schedule function eden:wandering_trader/run 3s
 schedule function eden:misc/update_material_lore 5s
+schedule function eden:villager/run 9t
 
 ##gamerules
 difficulty hard

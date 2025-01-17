@@ -3,4 +3,4 @@ execute as @e[type=pig] at @s if block ~ ~0.0625 ~ minecraft:beetroots[age=3] if
 
 execute as @a[predicate=eden:entity/is_riding_pig] run effect give @s minecraft:resistance 10 2 true
 
-schedule function pig_tweaks:run 5s
+schedule function pig_tweaks:run 2s

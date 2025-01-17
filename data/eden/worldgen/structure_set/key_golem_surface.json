@@ -1,23 +1,29 @@
 {
-    "placement": {
-      "type": "minecraft:random_spread",
-      "spacing": 28,
-      "separation": 24,
-      "salt": 5481214523243,
-      "spread_type": "triangular"
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 28,
+    "separation": 24,
+    "salt": 315047226,
+    "spread_type": "triangular",
+    "frequency_reduction_method": "default",
+    "frequency": 0.8,
+    "exclusion_zone": {
+      "other_set": "minecraft:villages",
+      "chunk_count": 6
+    }
+  },
+  "structures": [
+    {
+      "structure": "eden:key_golem/camp",
+      "weight": 1
     },
-    "structures": [
-      {
-        "structure": "eden:key_golem/camp",
-        "weight": 1
-      },
-      {
-        "structure": "eden:key_golem/desert",
-        "weight": 1
-      },
-      {
-        "structure": "eden:key_golem/pale_garden",
-        "weight": 1
-      }
-    ]
-  }
+    {
+      "structure": "eden:key_golem/desert",
+      "weight": 1
+    },
+    {
+      "structure": "eden:key_golem/pale_garden",
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 56,
+    "separation": 42,
+    "salt": 883294629,
+    "spread_type": "triangular",
+    "frequency_reduction_method": "default",
+    "frequency": 0.8,
+    "exclusion_zone": {
+      "other_set": "minecraft:villages",
+      "chunk_count": 10
+    }
+  },
+  "structures": [
+    {
+      "structure": "eden:end",
+      "weight": 1
+    },
+    {
+      "structure": "eden:grass",
+      "weight": 1
+    },
+    {
+      "structure": "eden:ice",
+      "weight": 1
+    },
+    {
+      "structure": "eden:nether",
+      "weight": 1
+    },
+    {
+      "structure": "eden:sand",
+      "weight": 1
+    },
+    {
+      "structure": "eden:snow",
+      "weight": 1
+    },
+    {
+      "structure": "eden:stone",
+      "weight": 1
+    },
+    {
+      "structure": "eden:terracotta",
+      "weight": 1
+    },
+    {
+      "structure": "eden:water",
+      "weight": 1
+    }
+  ]
+}
