@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:mushroom_stem",
+    "result": {
+      "id": "minecraft:mushroom_stem",
+      "components": {
+        "minecraft:block_state": {
+          "up": "false",
+          "down": "false",
+          "north": "true",
+          "east": "true",
+          "west": "true",
+          "south": "true"
+        },
+        "minecraft:item_name": "{\"bold\":false,\"fallback\":\"Vertical Stripped Mushroom Stem\",\"italic\":false,\"translate\":\"block.eden.vertical_stripped_mushroom_stem\"}"
+      },
+      "count": 1
+    }
+  }

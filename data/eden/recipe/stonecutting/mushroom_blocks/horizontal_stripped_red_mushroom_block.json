@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:red_mushroom_block",
+    "result": {
+      "id": "minecraft:red_mushroom_block",
+      "components": {
+        "minecraft:block_state": {
+          "up": "true",
+          "down": "true",
+          "north": "false",
+          "east": "false",
+          "west": "false",
+          "south": "false"
+        },
+        "minecraft:item_name": "{\"bold\":false,\"fallback\":\"Horizontal Stripped Red Mushroom Block\",\"italic\":false,\"translate\":\"block.eden.horizontal_stripped_red_mushroom_block\"}"
+      },
+      "count": 1
+    }
+  }
