@@ -10,13 +10,14 @@
     "minecraft:mud",
     "minecraft:sand",
     "minecraft:soul_sand",
+    "minecraft:soul_soil",
     "minecraft:crimson_nylium",
     "minecraft:warped_nylium",
-    "minecraft:netherrack",
     "minecraft:end_stone",
     "minecraft:sculk",
     "minecraft:mycelium",
     "minecraft:muddy_mangrove_roots",
+    "minecraft:gravel",
     "minecraft:pale_moss_block"
   ]
 }
