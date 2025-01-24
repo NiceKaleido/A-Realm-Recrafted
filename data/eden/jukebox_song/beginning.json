@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.beginning_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Beginning"
+  },
+  "length_in_seconds": 149.0,
+  "comparator_output": 6
+}

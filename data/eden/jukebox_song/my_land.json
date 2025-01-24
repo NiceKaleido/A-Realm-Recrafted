@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.my_land_laudividni"
+},
+  "description": {
+    "text": "Laudividni - My Land"
+  },
+  "length_in_seconds": 149.0,
+  "comparator_output": 2
+}

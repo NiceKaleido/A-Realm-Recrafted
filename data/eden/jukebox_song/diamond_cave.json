@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.diamond_cave_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Diamond Cave"
+  },
+  "length_in_seconds": 118.0,
+  "comparator_output": 10
+}

@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_boots",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Merchant Boots\",\"translate\":\"equipment.eden.merchant_boots\"}",
+                  "minecraft:custom_data": "{equipment:merchant_boots}",
+                  "minecraft:item_model": "eden:equipment/merchant_boots",
+                  "minecraft:rarity": "rare",
+                  "minecraft:equippable": {
+                    "slot": "feet",
+                    "asset_id": "eden:merchant"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

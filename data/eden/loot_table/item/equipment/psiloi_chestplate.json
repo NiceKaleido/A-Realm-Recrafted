@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_chestplate",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Psiloi Chestplate\",\"translate\":\"equipment.eden.psiloi_chestplate\"}",
+                  "minecraft:custom_data": "{equipment:psiloi_chestplate}",
+                  "minecraft:item_model": "eden:equipment/psiloi_chestplate",
+                  "minecraft:rarity": "rare",
+                  "minecraft:equippable": {
+                    "slot": "chest",
+                    "asset_id": "eden:psiloi"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

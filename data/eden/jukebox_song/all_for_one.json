@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.all_for_one_laudividni"
+},
+  "description": {
+    "text": "Laudividni - All For One"
+  },
+  "length_in_seconds": 175.0,
+  "comparator_output": 3
+}

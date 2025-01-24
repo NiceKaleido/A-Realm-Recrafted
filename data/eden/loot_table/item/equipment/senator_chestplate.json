@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_chestplate",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Senator Chestplate\",\"translate\":\"equipment.eden.senator_chestplate\"}",
+                  "minecraft:custom_data": "{equipment:senator_chestplate}",
+                  "minecraft:item_model": "eden:equipment/senator_chestplate",
+                  "minecraft:rarity": "rare",
+                  "minecraft:equippable": {
+                    "slot": "chest",
+                    "asset_id": "eden:senator"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

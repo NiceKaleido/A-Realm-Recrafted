@@ -45,15 +45,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:item/equipment/legionnaries_chainmail_chestplate"
-          },
-          {
-            "type": "minecraft:loot_table",
             "value": "eden:item/equipment/melon_chestplate"
-          },
-          {
-            "type": "minecraft:loot_table",
-            "value": "eden:item/equipment/optios_chestplate"
           },
           {
             "type": "minecraft:loot_table",
@@ -78,6 +70,202 @@
           {
             "type": "minecraft:loot_table",
             "value": "eden:item/equipment/warden_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/aquanaut_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/black_berserk_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/black_daimyo_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/black_ronin_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/black_samurai_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/blue_samurai_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/brown_berserk_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/brown_daimyo_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/brown_ronin_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/brown_samurai_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/ceasar_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/climber_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/doctor_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/emperor_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/firebender_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/flower_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/gladiator_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/golden_viking_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/gray_berserk_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/green_daimyo_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/guardian_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/hermes_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/hoplite_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/hunter_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/iron_viking_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/jarl_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/legate_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/magnate_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/merchant_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/night_king_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/olympus_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/pharaoh_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/psiloi_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/raider_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/red_daimyo_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/red_samurai_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/remus_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/romulus_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/senator_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/snow_fox_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/studded_viking_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/thor_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/undead_wolf_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/wasteland_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/white_daimyo_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/white_samurai_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/winter_guard_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/wizard_chestplate"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/woodland_chestplate"
           }
         ]
       }

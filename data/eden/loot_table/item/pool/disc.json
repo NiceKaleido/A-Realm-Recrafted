@@ -98,6 +98,110 @@
           {
             "type": "minecraft:loot_table",
             "value": "eden:item/disc/zen_garden"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/a_quiet_place"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/adventure_awaits"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/all_for_one"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/another_day"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/axolotl_paradise"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/beginning"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/bonus_level"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/celebration"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/conqueror"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/diamond_cave"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/empire"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/fading_memories"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/gold_rush"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/haunted_mansion"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/horizons"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/last_hallway"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/my_land"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/new_world"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/nightfall"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/no_escape"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/sakura_valley"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/trick_or_treat"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/union"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/vanished"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/voyage"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/disc/whispering_woods"
           }
         ]
       }

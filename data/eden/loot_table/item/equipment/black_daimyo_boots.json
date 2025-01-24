@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_boots",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Black Daimyo Boots\",\"translate\":\"equipment.eden.black_daimyo_boots\"}",
+                  "minecraft:custom_data": "{equipment:black_daimyo_boots}",
+                  "minecraft:item_model": "eden:equipment/black_daimyo_boots",
+                  "minecraft:rarity": "rare",
+                  "minecraft:equippable": {
+                    "slot": "feet",
+                    "asset_id": "eden:black_daimyo"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

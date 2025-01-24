@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.another_day_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Another Day"
+  },
+  "length_in_seconds": 102.0,
+  "comparator_output": 4
+}

@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.a_quiet_place_laudividni"
+},
+  "description": {
+    "text": "Laudividni - A Quiet Place"
+  },
+  "length_in_seconds": 150.0,
+  "comparator_output": 1
+}

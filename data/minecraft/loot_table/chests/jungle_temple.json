@@ -156,7 +156,15 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 2
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/tool"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:item/pool/equipment"
         },
         {
           "type": "minecraft:item",

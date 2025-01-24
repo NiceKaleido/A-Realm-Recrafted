@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.fading_memories_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Fading Memories"
+  },
+  "length_in_seconds": 146.0,
+  "comparator_output": 12
+}

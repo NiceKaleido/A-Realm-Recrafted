@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.haunted_mansion_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Haunted Mansion"
+  },
+  "length_in_seconds": 151.0,
+  "comparator_output": 14
+}

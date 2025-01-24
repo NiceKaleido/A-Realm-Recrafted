@@ -22,11 +22,6 @@
             "type": "minecraft:loot_table",
             "value": "eden:item/pool/helmet",
             "weight": 20
-          },
-          {
-            "type": "minecraft:loot_table",
-            "value": "eden:item/pool/elytra",
-            "weight": 5
           }
         ]
       }

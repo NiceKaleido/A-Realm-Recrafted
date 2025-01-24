@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_helmet",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Undead Wolf Helmet\",\"translate\":\"equipment.eden.undead_wolf_helmet\"}",
+                  "minecraft:custom_data": "{equipment:undead_wolf_helmet}",
+                  "minecraft:item_model": "eden:equipment/undead_wolf_helmet",
+                  "minecraft:rarity": "rare",
+                  "minecraft:equippable": {
+                    "slot": "head",
+                    "asset_id": "eden:undead_wolf"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

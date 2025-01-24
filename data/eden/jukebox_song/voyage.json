@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.voyage_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Voyage"
+  },
+  "length_in_seconds": 127.0,
+  "comparator_output": 10
+}

@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.adventure_awaits_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Adventure Awaits"
+  },
+  "length_in_seconds": 101.0,
+  "comparator_output": 2
+}

@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.celebration_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Celebration"
+  },
+  "length_in_seconds": 132.0,
+  "comparator_output": 8
+}

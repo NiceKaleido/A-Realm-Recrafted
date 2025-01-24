@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.last_hallway_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Last Hallway"
+  },
+  "length_in_seconds": 155.0,
+  "comparator_output": 1
+}

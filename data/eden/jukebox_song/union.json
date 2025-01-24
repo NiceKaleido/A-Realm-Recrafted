@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.union_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Union"
+  },
+  "length_in_seconds": 118.0,
+  "comparator_output": 8
+}

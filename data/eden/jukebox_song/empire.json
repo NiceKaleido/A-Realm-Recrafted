@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.empire_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Empire"
+  },
+  "length_in_seconds": 181.0,
+  "comparator_output": 11
+}

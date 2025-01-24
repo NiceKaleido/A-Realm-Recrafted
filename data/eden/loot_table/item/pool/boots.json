@@ -45,15 +45,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:item/equipment/legionnaries_chainmail_boots"
-          },
-          {
-            "type": "minecraft:loot_table",
             "value": "eden:item/equipment/melon_boots"
-          },
-          {
-            "type": "minecraft:loot_table",
-            "value": "eden:item/equipment/optios_boots"
           },
           {
             "type": "minecraft:loot_table",
@@ -78,6 +70,202 @@
           {
             "type": "minecraft:loot_table",
             "value": "eden:item/equipment/warden_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/aquanaut_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/black_berserk_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/black_daimyo_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/black_ronin_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/black_samurai_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/blue_samurai_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/brown_berserk_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/brown_daimyo_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/brown_ronin_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/brown_samurai_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/ceasar_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/climber_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/doctor_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/emperor_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/firebender_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/flower_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/gladiator_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/golden_viking_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/gray_berserk_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/green_daimyo_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/guardian_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/hermes_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/hoplite_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/hunter_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/iron_viking_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/jarl_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/legate_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/magnate_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/merchant_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/night_king_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/olympus_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/pharaoh_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/psiloi_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/raider_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/red_daimyo_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/red_samurai_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/remus_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/romulus_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/senator_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/snow_fox_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/studded_viking_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/thor_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/undead_wolf_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/wasteland_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/white_daimyo_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/white_samurai_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/winter_guard_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/wizard_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/equipment/woodland_boots"
           }
         ]
       }

@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_leggings",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Olympian Leggings\",\"translate\":\"equipment.eden.olympus_leggings\"}",
+                  "minecraft:custom_data": "{equipment:olympus_leggings}",
+                  "minecraft:item_model": "eden:equipment/olympus_leggings",
+                  "minecraft:rarity": "rare",
+                  "minecraft:equippable": {
+                    "slot": "legs",
+                    "asset_id": "eden:olympus"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

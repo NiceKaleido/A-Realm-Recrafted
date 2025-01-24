@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_leggings",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Psiloi Leggings\",\"translate\":\"equipment.eden.psiloi_leggings\"}",
+                  "minecraft:custom_data": "{equipment:psiloi_leggings}",
+                  "minecraft:item_model": "eden:equipment/psiloi_leggings",
+                  "minecraft:rarity": "rare",
+                  "minecraft:equippable": {
+                    "slot": "legs",
+                    "asset_id": "eden:psiloi"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

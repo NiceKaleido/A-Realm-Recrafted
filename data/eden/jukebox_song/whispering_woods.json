@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.whispering_woods_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Whispering Woods"
+  },
+  "length_in_seconds": 140.0,
+  "comparator_output": 11
+}

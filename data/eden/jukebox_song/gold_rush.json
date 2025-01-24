@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.gold_rush_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Gold Rush"
+  },
+  "length_in_seconds": 169.0,
+  "comparator_output": 13
+}

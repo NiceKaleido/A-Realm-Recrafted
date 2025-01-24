@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.axolotl_paradise_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Axolotl Paradise"
+  },
+  "length_in_seconds": 126.0,
+  "comparator_output": 5
+}

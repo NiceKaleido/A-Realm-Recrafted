@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.trick_or_treat_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Trick or Treat"
+  },
+  "length_in_seconds": 122.0,
+  "comparator_output": 7
+}

@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.no_escape_laudividni"
+},
+  "description": {
+    "text": "Laudividni - No Escape"
+  },
+  "length_in_seconds": 143.0,
+  "comparator_output": 5
+}

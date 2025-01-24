@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.bonus_level_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Bonus Level"
+  },
+  "length_in_seconds": 136.0,
+  "comparator_output": 7
+}

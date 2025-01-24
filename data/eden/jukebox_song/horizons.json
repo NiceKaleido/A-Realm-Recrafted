@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.horizons_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Horizons"
+  },
+  "length_in_seconds": 121.0,
+  "comparator_output": 15
+}

@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.vanished_laudividni"
+},
+  "description": {
+    "text": "Laudividni - Vanished"
+  },
+  "length_in_seconds": 159.0,
+  "comparator_output": 9
+}

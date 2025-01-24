@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:leather_leggings",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"fallback\":\"Wasteland Leggings\",\"translate\":\"equipment.eden.wasteland_leggings\"}",
+                  "minecraft:custom_data": "{equipment:wasteland_leggings}",
+                  "minecraft:item_model": "eden:equipment/wasteland_leggings",
+                  "minecraft:rarity": "rare",
+                  "minecraft:equippable": {
+                    "slot": "legs",
+                    "asset_id": "eden:wasteland"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
