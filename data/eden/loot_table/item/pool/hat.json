@@ -314,6 +314,66 @@
           {
             "type": "minecraft:loot_table",
             "value": "eden:item/hat/siff_hat"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/archerhood"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/climbinghelmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/ghosthelmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/hidehelmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/icehelmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/metalhelmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/ocelothelmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/phantomhelmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/piglinhelmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/snowhelmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/souldancerhood"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/soulhood"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/speedhelmet"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "eden:item/hat/wolfhelmet"
           }
         ]
       }
