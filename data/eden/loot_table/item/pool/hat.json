@@ -317,10 +317,6 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "eden:item/hat/"
-          },
-          {
-            "type": "minecraft:loot_table",
             "value": "eden:item/hat/archerhood"
           },
           {

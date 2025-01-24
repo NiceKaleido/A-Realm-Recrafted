@@ -428,16 +428,16 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "value": "eden:item/equipment/legionnaries_chainmail_boots"
+            "value": "eden:item/equipment/magnate_boots"
           },{
             "type": "minecraft:loot_table",
-            "value": "eden:item/equipment/legionnaries_chainmail_chestplate"
+            "value": "eden:item/equipment/magnate_chestplate"
           },{
             "type": "minecraft:loot_table",
-            "value": "eden:item/equipment/legionnaries_chainmail_helmet"
+            "value": "eden:item/equipment/magnate_helmet"
           },{
             "type": "minecraft:loot_table",
-            "value": "eden:item/equipment/legionnaries_chainmail_leggings"
+            "value": "eden:item/equipment/magnate_leggings"
           }
         ],
         "conditions": [
