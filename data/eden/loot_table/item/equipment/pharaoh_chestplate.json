@@ -11,12 +11,12 @@
                 "function": "minecraft:set_components",
                 "components": {
                   "minecraft:item_name": "{\"fallback\":\"Pharaoh's Chestplate\",\"translate\":\"equipment.eden.pharoh_chestplate\"}",
-                  "minecraft:custom_data": "{equipment:pharoh_chestplate}",
-                  "minecraft:item_model": "eden:equipment/pharoh_chestplate",
+                  "minecraft:custom_data": "{equipment:pharaoh_chestplate}",
+                  "minecraft:item_model": "eden:equipment/pharaoh_chestplate",
                   "minecraft:rarity": "rare",
                   "minecraft:equippable": {
                     "slot": "chest",
-                    "asset_id": "eden:pharoh"
+                    "asset_id": "eden:pharaoh"
                   }
                 }
               }

@@ -9,7 +9,7 @@ execute if items entity @s weapon.* minecraft:arms_up_pottery_sherd[minecraft:cu
 execute if items entity @s weapon.* minecraft:ender_eye[minecraft:custom_data={token:endling}] at @s run return run function heritages:endling/select
 execute if items entity @s weapon.* minecraft:powder_snow_bucket[minecraft:custom_data={token:frostborne}] at @s run return run function heritages:frostborne/select
 execute if items entity @s weapon.* minecraft:echo_shard[minecraft:custom_data={token:moonshroud}] at @s run return run function heritages:moonshroud/select
-execute if items entity @s weapon.* minecraft:fire_charge[minecraft:custom_data={token:netherian}] at @s run return run function heritages:netherian/select
+execute if items entity @s weapon.* minecraft:blaze_powder[minecraft:custom_data={token:netherian}] at @s run return run function heritages:netherian/select
 execute if items entity @s weapon.* minecraft:oak_sapling[minecraft:custom_data={token:oakhearted}] at @s run return run function heritages:oakhearted/select
 execute if items entity @s weapon.* minecraft:stone_pickaxe[minecraft:custom_data={token:orebringer}] at @s run return run function heritages:orebringer/select
 execute if items entity @s weapon.* minecraft:nautilus_shell[minecraft:custom_data={token:turtlekin}] at @s run return run function heritages:turtlekin/select
