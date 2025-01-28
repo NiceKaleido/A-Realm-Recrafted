@@ -14,7 +14,7 @@ tellraw @s [{"text":"▊ ","color":"gray","bold":true,"italic":false},{"text":"D
 
 tellraw @s [{"text":"▊ ","color":"gray","bold":true,"italic":false},{"text":" ","color":"#D1D1D1","bold":false,"italic":false}]
 tellraw @s [{"text":"▊ ","color":"gray","bold":true,"italic":false},{"text":"Characteristics:","color":"gray","bold":false,"italic":false,"underlined":true}]
-tellraw @s [{"text":"▊ ","color":"gray","bold":true,"italic":false},{"text":"• 2.0 Bas Block Breaking Speed","color":"#D1D1D1","bold":false,"italic":false}]
+tellraw @s [{"text":"▊ ","color":"gray","bold":true,"italic":false},{"text":"• 2.0 Base Block Breaking Speed","color":"#D1D1D1","bold":false,"italic":false}]
 tellraw @s [{"text":"▊ ","color":"gray","bold":true,"italic":false},{"text":"• 3.5 Base Block Interaction Range","color":"#D1D1D1","bold":false,"italic":false}]
 tellraw @s [{"text":"▊ ","color":"gray","bold":true,"italic":false},{"text":"• Infinite Luck 3 Effect","color":"#D1D1D1","bold":false,"italic":false}]
 tellraw @s [{"text":"▊ ","color":"gray","bold":true,"italic":false},{"text":"• Small Strength Effect When In Cave Biomes","color":"#D1D1D1","bold":false,"italic":false}]

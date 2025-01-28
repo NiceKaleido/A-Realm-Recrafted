@@ -17,5 +17,5 @@ team join eden.dunesworn @s
 effect clear @s
 
 loot spawn ~ ~ ~ loot goml:blocks/crystal_claim_anchor
-loot spawn ~ ~ ~ loot eden:item/waypoint_hub
+loot spawn ~ ~ ~ loot eden:item/pool/waypoint_hub
 give @s goml:goggles

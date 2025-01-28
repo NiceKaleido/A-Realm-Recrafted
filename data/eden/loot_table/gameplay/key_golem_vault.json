@@ -588,7 +588,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "eden:item/waypoint_hub"
+          "value": "eden:item/pool/waypoint_hub"
         },
         {
           "type": "minecraft:item",
