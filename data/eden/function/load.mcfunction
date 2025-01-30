@@ -19,7 +19,7 @@ scoreboard objectives add eden.digsite.type dummy
 
 ##init schedules
 schedule function eden:rtp/run 2s
-schedule function eden:player_joined/run 3s
+schedule function eden:player_joined/run 5t
 schedule function eden:spawn/run 2s
 schedule function eden:misc/dirt_path_speed 3t
 schedule function eden:heritage_harbor/run 2s
